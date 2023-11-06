@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sameer Nair-Desai"
 title_separator          : "-"
 name                     : &name "Sameer Nair-Desai"
-description              : &description "Predoctoral Research Fellow in Economics, Stanford University and SIEPR"
+description              : &description "Predoctoral Research Fellow in Economics, Stanford University"
 url                      : https://snairdesai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "snairdesai/snairdesai.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "sameernd"
+  twitter          : "sameer_nd"
   vine             :
   weibo            :
   xing             :
