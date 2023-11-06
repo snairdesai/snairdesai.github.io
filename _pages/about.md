@@ -13,7 +13,7 @@ Welcome!
 
 I am a 2020 graduate of the University of Southern California, where I studied Economics and Political Science. I am currently a predoctoral research fellow at the [Stanford Institute for Economic Policy Research][Stanford Institute for Economic Policy Research] (SIEPR) and the Department of Economics with Professor [Matthew Gentzkow][Matthew Gentzkow]. Previously, I served as a research assistant at the [Brown University School of Public Health Incubator Lab][Brown University School of Public Health Incubator Lab] with Dean [Ashish Jha][Ashish Jha].
 
-My interests involve leveraging the intersection of development economics, public policy, and social enterprise for positive social outcomes. My research agenda focuses on topics at the intersection of health, information, and network economics. I am particularly invested in uncovering the roots of economic inequalities, and identifying the effects of these inequities on marginalized communities. For more information on my professional background, please see my [Research][Research] page or my [CV][CV].
+My interests involve leveraging the intersection of development economics, public policy, and social enterprise for positive social outcomes. My research agenda focuses on topics at the intersection of health, information, and network economics. I am particularly invested in uncovering the roots of economic inequalities, and identifying the effects of these inequities on marginalized communities. For more information on my professional background, please see my [Research][Research] page or my [CV][CV]. My [personal website][personal website] has more detailed information on my coursework.
 
 [Stanford Institute for Economic Policy Research]: https://siepr.stanford.edu/people/predoctoral-research-fellows
 [Matthew Gentzkow]: https://www.matthewgentzkow.com/bio/
@@ -21,3 +21,4 @@ My interests involve leveraging the intersection of development economics, publi
 [Ashish Jha]: https://dean.sph.brown.edu/dean
 [Research]: https://snairdesai.github.io/research
 [CV]:{{ site.baseurl }}{% link files/SND_Academic_CV_2023.pdf %}
+[personal website]: https://sameernairdesai.wordpress.com/
