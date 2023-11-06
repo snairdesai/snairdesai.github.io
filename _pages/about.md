@@ -16,4 +16,4 @@ Welcome! I am a 2020 graduate of the University of Southern California, where I 
 [Brown University School of Public Health Incubator Lab]: https://dean.sph.brown.edu/incubator-lab
 [Ashish Jha]: https://dean.sph.brown.edu/dean
 [Research]: https://snairdesai.github.io/research
-[CV]:{{ site.baseurl }}{% link assets/files/SND_Academic_CV_2023.pdf %}
+[CV]:{{ site.baseurl }}{% link files/SND_Academic_CV_2023.pdf %}
