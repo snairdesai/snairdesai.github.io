@@ -21,6 +21,6 @@ For more information on my professional background, please see my [Research][Res
 [Matthew Gentzkow]: https://www.matthewgentzkow.com/bio/
 [Brown University School of Public Health Incubator Lab]: https://dean.sph.brown.edu/incubator-lab
 [Ashish Jha]: https://dean.sph.brown.edu/dean
-[Research]: https://snairdesai.github.io/research
+[Research]: https://snairdesai.github.io/research/
 [personal website]: https://sameernairdesai.wordpress.com/
 [CV]:{{ site.baseurl }}{% link files/SND_Academic_CV_2023.pdf %}
