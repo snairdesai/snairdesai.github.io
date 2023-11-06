@@ -37,8 +37,6 @@ Ambulatory surgical centers (ASCs) are increasingly being acquired by private eq
 [ttsai]: https://www.hsph.harvard.edu/profile/thomas-c-tsai/
 [jorav]: https://www.hsph.harvard.edu/profile/e-john-orav/
 
-### TODO
-
 # <center> Forthcoming Publications </center>
 - - -
 
