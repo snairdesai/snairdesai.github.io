@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /research/
 ---
+
 <br/> 
 
 # <center> Publications </center>
