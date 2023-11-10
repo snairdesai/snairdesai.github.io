@@ -1,6 +1,8 @@
 # main links links
 main:
     
-  - title: "Research"
+  - title: "Published Research"
     url: /research/
 
+  - title: "Work in Progress"
+    url: /workinprogress/
