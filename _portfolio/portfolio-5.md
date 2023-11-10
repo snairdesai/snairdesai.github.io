@@ -1,6 +1,6 @@
 ---
 title: "Changes in Clinical Outcomes Associated with Private Equity and Non-Private Equity Acquisitions of ASCs"
-collection: publications
+collection: portfolio
 date: 2022-09-01
 venue: 'Health Affairs'
 

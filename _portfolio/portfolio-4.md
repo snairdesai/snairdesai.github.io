@@ -1,7 +1,7 @@
 ---
 
 title: "Gaps Between Official and Excess COVID-19 Mortality Measures"
-collection: publications
+collection: portfolio
 date: 2022-08-23
 venue: 'Economic Modelling'
 

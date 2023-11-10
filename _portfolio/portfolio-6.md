@@ -1,6 +1,6 @@
 ---
 title: "Estimating Vaccine-Preventable COVID-19 Deaths Among Adults Under Counterfactual Vaccination Scenarios in The United States: A Modeling Study Using Observational Data"
-collection: publications
+collection: portfolio
 date: 2023-09-23
 venue: 'Journal of Pharmacy and Pharmacology Research'
 

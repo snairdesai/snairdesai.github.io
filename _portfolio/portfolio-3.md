@@ -1,6 +1,6 @@
 ---
 title: "The Need for a Better-Quality Reporting System for Ambulatory and Outpatient Surgery — Surgical Quality Without Walls"
-collection: publications
+collection: portfolio
 date: 2022-06-29
 venue: 'JAMA Surgery'
 

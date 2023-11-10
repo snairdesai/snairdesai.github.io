@@ -1,6 +1,6 @@
 ---
 title: "Characteristics Associated with High Hospital Spending Over 1 Year Among Patients Hospitalised for COVID-19 in the USA: a Cohort Study"
-collection: publications
+collection: portfolio
 date: 2023-11-06
 venue: 'BMJ Public Health'
 

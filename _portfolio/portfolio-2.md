@@ -1,6 +1,6 @@
 ---
 title: "Pandemic Shocks and Fiscal-Monetary Policies in the Eurozone: COVID-19 Dominance During January – June 2020"
-collection: publications
+collection: portfolio
 date: 2021-03-22
 venue: 'Oxford Economic Papers'
 

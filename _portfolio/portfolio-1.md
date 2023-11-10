@@ -1,6 +1,6 @@
 ---
 title: "Accounting for Global COVID-19 Diffusion Patterns, January - April 2020"
-collection: publications
+collection: portfolio
 date: 2020-09-04
 venue: 'Economics of Disasters and Climate Change'
 
