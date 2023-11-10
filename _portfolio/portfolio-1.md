@@ -6,6 +6,7 @@ venue: 'Economics of Disasters and Climate Change'
 
 ---
 
+**Journal:** _Economics of Disasters and Climate Change_
 **Coauthors:** [Joshua Aizenman][jaizenman], [Yothin Jinjarak][jinjaraky], [Rashad Ahmed][rahmed] and [Weining Xin][weiningx].
 <br/>
 <small>[ <a href="#/" onclick="visib('coviddiffusion')">Abstract</a> | [NBER Working Paper][coviddiffusion-nberwp] | [Published Version][coviddiffusion-pub] ]</small>
@@ -20,3 +21,17 @@ Key factors in modeling a pandemic and guiding policy-making include mortality r
 [jinjaraky]: https://www.pier.or.th/en/members/yothin-jinjarak/
 [rahmed]: https://sites.google.com/view/rashad-ahmed
 [weiningx]: http://weiningxin.weebly.com/
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>

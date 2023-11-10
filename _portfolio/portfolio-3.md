@@ -6,6 +6,7 @@ venue: 'JAMA Surgery'
 
 ---
 
+**Journal:** _JAMA Surgery_
 **Coauthors:** [Ava Ferguson Bryan][afbryan] and [Thomas Tsai][ttsai].
 <br/>
 <small>[ <a href="#/" onclick="visib('surgqual')">Abstract</a> | [Published Version][surgqual-pub] ] </small>
@@ -17,3 +18,17 @@ One of the most important consequences of the COVID-19 pandemic on health care d
 [surgqual-pub]:{{ site.baseurl }}{% link files/QRSSurgery.pdf %}
 [afbryan]: https://www.commonwealthfund.org/person/ava-ferguson-bryan
 [ttsai]: https://www.hsph.harvard.edu/profile/thomas-c-tsai/
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>

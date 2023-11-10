@@ -6,6 +6,7 @@ venue: 'BMJ Public Health'
 
 ---
 
+**Journal:** _BMJ Public Health_
 **Coauthors:** [Laura Chambers][lchambers], [Mark Soto][msoto], [Caroline Behr][cbehr], [Leah Lovgren][llovgren], [Tamsin Zandstra][tzandstra], [Scott Rivkees][srivkees], [Ning Rosenthal][nrosenthal], [Francesca Beaudoin][fbeaudoin], and [Thomas Tsai][ttsai].
 <br/>
 <small>[ <a href="#/" onclick="visib('lci')">Abstract</a> | [Published Version][lci-pub] ] </small>
@@ -25,3 +26,17 @@ Despite complex care needs during critical COVID-19, the associated long-term he
 [nrosenthal]: https://www.linkedin.com/in/ningrosenthal/
 [fbeaudoin]: https://vivo.brown.edu/display/fbeaudoi
 [ttsai]: https://www.hsph.harvard.edu/profile/thomas-c-tsai/
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>

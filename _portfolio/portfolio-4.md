@@ -7,6 +7,7 @@ venue: 'Economic Modelling'
 
 ---
 
+**Journal:** _Economic Modelling_
 **Coauthors:** [Joshua Aizenman][jaizenman], [Alex Cukierman][acukierman], [Yothin Jinjarak][jinjaraky] and [Weining Xin][weiningx].
 <br/>
 <small>[ <a href="#/" onclick="visib('covidmortalitygaps')">Abstract</a> | [NBER Working Paper][covidmortalitygaps-nberwp] | [Published Version][covidmortalitygaps-pub] ]</small>
@@ -21,3 +22,17 @@ We evaluate quartile rankings of countries during the COVID-19 pandemic using bo
 [acukierman]: https://www.alexcuk.sites.tau.ac.il/
 [jinjaraky]: https://www.pier.or.th/en/members/yothin-jinjarak/
 [weiningx]: http://weiningxin.weebly.com/
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>

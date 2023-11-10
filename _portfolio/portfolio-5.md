@@ -6,6 +6,7 @@ venue: 'Health Affairs'
 
 ---
 
+**Journal:** _Health Affairs_
 **Coauthors:** [Joseph Bruch][jbruch], [Thomas Tsai][ttsai] and [John Orav][jorav].
 <br/>
 <small>[ <a href="#/" onclick="visib('ascpe')">Abstract</a> | [Published Version][ascpe-pub] ] </small>
@@ -18,3 +19,17 @@ Ambulatory surgical centers (ASCs) are increasingly being acquired by private eq
 [jbruch]: https://pbhs.uchicago.edu/faculty/joseph-dov-bruch-phd
 [ttsai]: https://www.hsph.harvard.edu/profile/thomas-c-tsai/
 [jorav]: https://www.hsph.harvard.edu/profile/e-john-orav/
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>

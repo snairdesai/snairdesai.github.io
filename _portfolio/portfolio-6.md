@@ -6,6 +6,7 @@ venue: 'Journal of Pharmacy and Pharmacology Research'
 
 ---
 
+**Journal:** _Journal of Pharmacy and Pharmacology Research_
 **Coauthors:** [Ming Zhong][mzong], [Tamara Glazer][tglazer], [Meghana Kshirsagar][meghanak], [Richard Johnston][rjohnston], [Rahul Dodhia][rdodhia], [Allen Kim][akim], [Divya Michael][dmichael], [Santiago Salcido][ssalcido], [Thomas Tsai][ttsai], [Stefanie Friedhoff][sfriedhoff], [William Weeks][wweeks], and [Juan Lavista][jlavista].
 <br/>
 <small>[ <a href="#/" onclick="visib('vaxprevdeaths')">Abstract</a> | [Published Version][vaxprevdeaths-pub] ] </small>
@@ -28,3 +29,17 @@ In early 2021, effective SARS-CoV-2 (COVID-19) vaccines became available in the 
 [jlavista]: https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/people/
 [sfriedhoff]: https://vivo.brown.edu/display/sfriedho
 [ttsai]: https://www.hsph.harvard.edu/profile/thomas-c-tsai/
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>

@@ -6,6 +6,7 @@ venue: 'Oxford Economic Papers'
 
 ---
 
+**Journal:** _Oxford Economic Papers_
 **Coauthors:** [Joshua Aizenman][jaizenman], [Yothin Jinjarak][jinjaraky], [Rashad Ahmed][rahmed] and [Weining Xin][weiningx].
 <br/>
 <small>[ <a href="#/" onclick="visib('covidshocks')">Abstract</a> | [NBER Working Paper][covidshocks-nberwp] | [Published Version][covidshocks-pub] ]</small>
@@ -20,3 +21,17 @@ We compare the importance of market factors against that of coronavirus disease-
 [jinjaraky]: https://www.pier.or.th/en/members/yothin-jinjarak/
 [rahmed]: https://sites.google.com/view/rashad-ahmed
 [weiningx]: http://weiningxin.weebly.com/
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>

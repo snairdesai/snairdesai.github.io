@@ -1,10 +1,11 @@
 ---
-title: "Epidemiology of CreutzfeldtJakob Disease in the United States, 2007-2022"
+title: "Epidemiology of Creutzfeldt-Jakob Disease in the United States, 2007-2022"
 collection: portfolio
 venue: 'JAMA Neurology (Forthcoming)'
 
 ---
 
+**Journal:** _JAMA Neurology_ (Forthcoming)
 **Coauthors:** [Matthew Crane][mcrane], [John Romley][jromley], [Alison Gemmill][agem], and [John Probasco][jprobasco].
 <br/>
 <small>[ <a href="#/" onclick="visib('cjdepi')">Abstract</a> | Article Coming Soon! ] </small>
@@ -17,3 +18,17 @@ Creutzfeldt–Jakob disease (CJD) is a rapidly progressive and universally fatal
 [jromley]: https://priceschool.usc.edu/people/john-a-romley/
 [agem]: https://publichealth.jhu.edu/faculty/3843/alison-gemmill
 [jprobasco]: https://pure.johnshopkins.edu/en/persons/john-probasco
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
