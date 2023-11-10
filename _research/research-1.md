@@ -1,5 +1,5 @@
 ---
-title: 
+title: Research Tester
 layout: single
 classes: wide
 permalink: /research/
