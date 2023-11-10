@@ -20,6 +20,7 @@ In early 2021, effective SARS-CoV-2 (COVID-19) vaccines became available in the 
 [tglazer]: https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/people/
 [meghanak]: https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/people/
 [rjohnston]: https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/people/
+[rdodhia]: https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/people/
 [akim]: https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/people/
 [dmichael]: https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/people/
 [ssalcido]: https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/people/
