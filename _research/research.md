@@ -10,7 +10,7 @@ permalink: /research/
 # <center> Publications </center>
 - - -
 
-**Gaps Between Official and Excess COVID-19 Mortality Measures** (with [Joshua Aizenman][jaizenman], [Alex Cukierman][acukierman], [Yothin Jinjarak][jinjaraky] and [Weining Xin][weiningx]). _Economic Modelling_. Sep. 2022.
+**Gaps Between Official and Excess COVID-19 Mortality Measures** (with [Joshua Aizenman][jaizenman], [Alex Cukierman][acukierman], [Yothin Jinjarak][jinjaraky] and [Weining Xin][weiningx]). _Economic Modelling_. Aug. 2022.
 <br/>
 <small>[ <a href="#/" onclick="visib('covidmortalitygaps')">Abstract</a> | [NBER Working Paper][covidmortalitygaps-nberwp] | [Published Version][covidmortalitygaps-pub] ]</small>
 
