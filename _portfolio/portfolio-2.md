@@ -6,7 +6,7 @@ venue: 'Health Affairs'
 
 ---
 
-**Changes in Clinical Outcomes Associated with Private Equity and Non-Private Equity Acquisitions of ASCs** (with [Joseph Bruch][jbruch], [Thomas Tsai][ttsai] and [John Orav][jorav]). _Health Affairs_. Sep. 2022.
+**Coauthors:** [Joseph Bruch][jbruch], [Thomas Tsai][ttsai] and [John Orav][jorav].
 <br/>
 <small>[ <a href="#/" onclick="visib('ascpe')">Abstract</a> | [Published Version][ascpe-pub] ] </small>
 

@@ -1,11 +1,12 @@
 ---
-title: "Gaps Between Official and Excess COVID-19 Mortality Measures (with [Joshua Aizenman][jaizenman], [Alex Cukierman][acukierman], [Yothin Jinjarak][jinjaraky] and [Weining Xin][weiningx])"
+title: "Gaps Between Official and Excess COVID-19 Mortality Measures"
 collection: publications
 date: 2022-08-23
 venue: 'Economic Modelling'
 
 ---
 
+**Coauthors:** [Joshua Aizenman][jaizenman], [Alex Cukierman][acukierman], [Yothin Jinjarak][jinjaraky] and [Weining Xin][weiningx].
 <br/>
 <small>[ <a href="#/" onclick="visib('covidmortalitygaps')">Abstract</a> | [NBER Working Paper][covidmortalitygaps-nberwp] | [Published Version][covidmortalitygaps-pub] ]</small>
 
@@ -14,7 +15,7 @@ We evaluate quartile rankings of countries during the COVID-19 pandemic using bo
 </small><br><br/></div>
 
 [covidmortalitygaps-nberwp]:{{ site.baseurl }}{% link files/COVIDMortGapsNBER.pdf %}
-[covidmortalitygaps-pub]:{{ site.baseurl }}{% link files/COVIDMortGapsNBER.pdf %}
+[covidmortalitygaps-pub]:{{ site.baseurl }}{% link files/COVIDMortGaps.pdf %}
 [jaizenman]: https://sites.google.com/site/aizenmanpage/
 [acukierman]: https://www.alexcuk.sites.tau.ac.il/
 [jinjaraky]: https://www.pier.or.th/en/members/yothin-jinjarak/
