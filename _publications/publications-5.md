@@ -7,7 +7,7 @@ venue: 'Global Epidemics'
 ---
 
 **Coauthors:** [Benjy Renton][brenton] and [Ashish Jha][ajha].
-<br/>
+<br>
 <small>[ <a href="#/" onclick="visib('hosptrack')">Abstract</a> | [Op Ed][hosptrack-pub] ]</small>
 
 <div id="hosptrack" style="display: none; text-align: justify; line-height: 1.2" ><small>

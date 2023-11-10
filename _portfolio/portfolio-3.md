@@ -7,7 +7,7 @@ venue: 'JAMA Surgery'
 ---
 
 **Journal:** _JAMA Surgery_
-<br/>
+<br>
 **Coauthors:** [Ava Ferguson Bryan][afbryan] and [Thomas Tsai][ttsai].
 <br/>
 <small>[ <a href="#/" onclick="visib('surgqual')">Abstract</a> | [Published Version][surgqual-pub] ] </small>

@@ -7,7 +7,7 @@ venue: 'Global Epidemics'
 ---
 
 **Coauthors:** [Ashish Jha][ajha].
-<br/>
+<br>
 <small>[ <a href="#/" onclick="visib('covschools')">Abstract</a> | [Op Ed][covschools-pub] ]</small>
 
 <div id="covschools" style="display: none; text-align: justify; line-height: 1.2" ><small>

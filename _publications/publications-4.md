@@ -7,7 +7,7 @@ venue: 'USC Center for Public Diplomacy'
 ---
 
 **Coauthors:** [Srividya Dasaraju][sdasaraju], [Sahit Menon][smenon], and [Hailey Robertson][hrobertson].
-<br/>
+<br>
 <small>[ <a href="#/" onclick="visib('vaxdiplom')">Abstract</a> | [Op Ed][vaxdiplom-pub] ]</small>
 
 <div id="vaxdiplom" style="display: none; text-align: justify; line-height: 1.2" ><small>

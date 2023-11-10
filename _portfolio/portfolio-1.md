@@ -7,7 +7,7 @@ venue: 'Economics of Disasters and Climate Change'
 ---
 
 **Journal:** _Economics of Disasters and Climate Change_
-<br/>
+<br>
 **Coauthors:** [Joshua Aizenman][jaizenman], [Yothin Jinjarak][jinjaraky], [Rashad Ahmed][rahmed] and [Weining Xin][weiningx].
 <br/>
 <small>[ <a href="#/" onclick="visib('coviddiffusion')">Abstract</a> | [NBER Working Paper][coviddiffusion-nberwp] | [Published Version][coviddiffusion-pub] ]</small>

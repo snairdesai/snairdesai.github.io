@@ -1,5 +1,5 @@
 ---
-title: "Equity, Efficiency, and Partnership: Examining Secondary Education in Kerala, India"
+title: "Equity, Efficiency, and Partnership: Examining Secondary Education in Kerala, India (Honors Thesis)"
 collection: portfolio
 date: 2020-05-08
 venue: 'Social Science Research Council (SSRC)'

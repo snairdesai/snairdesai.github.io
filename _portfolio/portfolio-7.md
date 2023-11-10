@@ -7,7 +7,7 @@ venue: 'BMJ Public Health'
 ---
 
 **Journal:** _BMJ Public Health_
-<br/>
+<br>
 **Coauthors:** [Laura Chambers][lchambers], [Mark Soto][msoto], [Caroline Behr][cbehr], [Leah Lovgren][llovgren], [Tamsin Zandstra][tzandstra], [Scott Rivkees][srivkees], [Ning Rosenthal][nrosenthal], [Francesca Beaudoin][fbeaudoin], and [Thomas Tsai][ttsai].
 <br/>
 <small>[ <a href="#/" onclick="visib('lci')">Abstract</a> | [Published Version][lci-pub] ] </small>

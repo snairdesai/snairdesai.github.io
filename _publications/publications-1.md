@@ -7,7 +7,7 @@ venue: 'USC Equity Research Institute Policy Briefs'
 ---
 
 **Coauthors:** [Arpita Sharma][asharma] and [Jennifer Ito][jito].
-<br/>
+<br>
 <small>[ <a href="#/" onclick="visib('heartlandequity')">Abstract</a> | [Policy Brief][heartlandequity-pub] ]</small>
 
 <div id="heartlandequity" style="display: none; text-align: justify; line-height: 1.2" ><small>

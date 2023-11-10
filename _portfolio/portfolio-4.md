@@ -8,7 +8,7 @@ venue: 'Economic Modelling'
 ---
 
 **Journal:** _Economic Modelling_
-<br/>
+<br>
 **Coauthors:** [Joshua Aizenman][jaizenman], [Alex Cukierman][acukierman], [Yothin Jinjarak][jinjaraky] and [Weining Xin][weiningx].
 <br/>
 <small>[ <a href="#/" onclick="visib('covidmortalitygaps')">Abstract</a> | [NBER Working Paper][covidmortalitygaps-nberwp] | [Published Version][covidmortalitygaps-pub] ]</small>
