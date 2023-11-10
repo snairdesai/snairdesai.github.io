@@ -2,11 +2,10 @@
 title: "The Heartland Equity Atlas: Regional Data for Equitable Entrepreneurship (Policy Report)"
 collection: portfolio
 date: 2019-11-15
-venue: 'USC Equity Research Institute'
+venue: 'USC Equity Research Institute Policy Briefs'
 
 ---
 
-_Policy Brief for the Kauffman Foundation, presented by the USC Equity Research Institute_
 **Coauthors:** [Arpita Sharma][asharma] and [Jennifer Ito][jito].
 <br/>
 <small>[ <a href="#/" onclick="visib('heartlandequity')">Abstract</a> | [Policy Brief][heartlandequity-pub] ]</small>

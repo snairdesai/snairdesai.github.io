@@ -6,9 +6,8 @@ venue: 'Social Science Research Council (SSRC)'
 
 ---
 
-_Undergraduate Senior Honors Thesis, published by the USC School of International Relations and Social Science Research Council (SSRC)_
 <br/>
-<small>[ <a href="#/" onclick="visib('honorsthesis')">Abstract</a> | [Published Version][honorsthesis-nberwp] | [Summary][esumm] | [Presentation][pres] ]</small>
+<small>[ <a href="#/" onclick="visib('honorsthesis')">Abstract</a> | [Honors Thesis][honorsthesis-pub] | [Summary][esumm] | [Presentation][pres] ]</small>
 
 <div id="honorsthesis" style="display: none; text-align: justify; line-height: 1.2" ><small>
 My yearlong Honors Thesis in International Relations & Economics was my first foray into formative independent research. It was also the single most valuable learning experience of my college career. From constructing a research puzzle, to scraping and cleaning data, to visualizing and analyzing, to writing and preparing for publication, the Honors Thesis was immersive in every step of the research process. Motivated by the works of Professors Karthik Muralidharan and Geeta Gandhi Kingdon in Indian education, I decided to explore secondary education in Kerala, India (my home state). I wanted to measure the progress of national programs funded by the Indian Government which emphasized a universal access to secondary education and had recently been implemented by state governments: the Right to Education Act and Rashtriya Madhyamik Shiksha Abhiyan.
