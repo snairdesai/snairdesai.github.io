@@ -7,6 +7,7 @@ venue: 'Oxford Economic Papers'
 ---
 
 **Journal:** _Oxford Economic Papers_
+<br/>
 **Coauthors:** [Joshua Aizenman][jaizenman], [Yothin Jinjarak][jinjaraky], [Rashad Ahmed][rahmed] and [Weining Xin][weiningx].
 <br/>
 <small>[ <a href="#/" onclick="visib('covidshocks')">Abstract</a> | [NBER Working Paper][covidshocks-nberwp] | [Published Version][covidshocks-pub] ]</small>

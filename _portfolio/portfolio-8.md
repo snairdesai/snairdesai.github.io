@@ -6,6 +6,7 @@ venue: 'JAMA Neurology (Forthcoming)'
 ---
 
 **Journal:** _JAMA Neurology_ (Forthcoming)
+<br/>
 **Coauthors:** [Matthew Crane][mcrane], [John Romley][jromley], [Alison Gemmill][agem], and [John Probasco][jprobasco].
 <br/>
 <small>[ <a href="#/" onclick="visib('cjdepi')">Abstract</a> | Article Coming Soon! ] </small>

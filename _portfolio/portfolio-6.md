@@ -7,6 +7,7 @@ venue: 'Journal of Pharmacy and Pharmacology Research'
 ---
 
 **Journal:** _Journal of Pharmacy and Pharmacology Research_
+<br/>
 **Coauthors:** [Ming Zhong][mzong], [Tamara Glazer][tglazer], [Meghana Kshirsagar][meghanak], [Richard Johnston][rjohnston], [Rahul Dodhia][rdodhia], [Allen Kim][akim], [Divya Michael][dmichael], [Santiago Salcido][ssalcido], [Thomas Tsai][ttsai], [Stefanie Friedhoff][sfriedhoff], [William Weeks][wweeks], and [Juan Lavista][jlavista].
 <br/>
 <small>[ <a href="#/" onclick="visib('vaxprevdeaths')">Abstract</a> | [Published Version][vaxprevdeaths-pub] ] </small>

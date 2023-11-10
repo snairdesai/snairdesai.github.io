@@ -7,6 +7,7 @@ venue: 'Health Affairs'
 ---
 
 **Journal:** _Health Affairs_
+<br/>
 **Coauthors:** [Joseph Bruch][jbruch], [Thomas Tsai][ttsai] and [John Orav][jorav].
 <br/>
 <small>[ <a href="#/" onclick="visib('ascpe')">Abstract</a> | [Published Version][ascpe-pub] ] </small>
