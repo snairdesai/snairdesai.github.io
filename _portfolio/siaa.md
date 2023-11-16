@@ -1,5 +1,5 @@
 ---
-title: "Our Global Health Frameworks in COVID-19: Who Was Left Behind?"
+title: "Intergenerational Gaps in Social and Political Attitudes Amongst Asian Americans"
 collection: portfolio
 date: 2023-01-26
 venue: 'SSRC'
