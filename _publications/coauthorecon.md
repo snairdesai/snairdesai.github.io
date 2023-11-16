@@ -8,7 +8,6 @@ venue: 'Work in Progress'
 
 **Coauthors:** [Juan Carlos Cisneros][jccp] and [Srividya Dasaraju][sdasaraju].
 <br>
-_In progress._
 
 [jccp]: https://jccisneros.com/
 [sdasaraju]: https://www.linkedin.com/in/srividya-dasaraju-580a05133/

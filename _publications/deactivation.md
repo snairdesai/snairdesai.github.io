@@ -8,7 +8,7 @@ venue: 'Work in Progress'
 
 **Coauthors:** [Hunt Allcott][hallcott], [Matthew Gentzkow][mgentzkow] (two co-lead authors), et al.
 <br>
-_In progress as part of the [2020 Facebook and Instagram Election Studies][fies]._
+_Part of the [2020 Facebook and Instagram Election Studies][fies]._
 
 [hallcott]: https://allcott.stanford.edu/
 [mgentzkow]: https://www.matthewgentzkow.com/

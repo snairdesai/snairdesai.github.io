@@ -8,7 +8,6 @@ venue: 'Work in Progress'
 
 **Coauthors:** [Joshua Aizenman][jaizenman] and [Hiro Ito][hito].
 <br>
-_In progress._
 
 [jaizenman]: https://dornsife.usc.edu/profile/joshua-aizenman/
 [hito]: https://web.pdx.edu/~ito/
