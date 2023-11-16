@@ -1,6 +1,7 @@
 ---
 title: "The Effects of Facebook and Instagram on the 2020 Election: A Deactivation Experiment"
 collection: publications
+date: 2023-01-01
 venue: ''
 
 ---

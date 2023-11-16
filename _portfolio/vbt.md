@@ -6,7 +6,7 @@ venue: 'medRxiv'
 
 ---
 
-**Outlet:** _Preprint on medRxiv_
+**Outlet:** _Preprint on medRxiv._
 <br>
 **Coauthors:** [Heather Kerwin][hkerwin], [Rex Briggs][rbriggs], [Andrew Gorzalski][agorz], [Mark Pandori][mpandori], [Stefanie Friedhoff][sfriedhoff] and [Thomas Tsai][ttsai].
 <br>

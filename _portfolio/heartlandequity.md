@@ -6,7 +6,7 @@ venue: 'USC Equity Research Institute Policy Briefs'
 
 ---
 
-**Outlet:** _Policy Report for the Kauffman Foundation_
+**Outlet:** _Policy Report for the Kauffman Foundation._
 <br>
 **Coauthors:** [Arpita Sharma][asharma] and [Jennifer Ito][jito].
 <br>

@@ -6,7 +6,7 @@ venue: 'Social Science Research Council (SSRC)'
 
 ---
 
-**Outlet:** _Undergraduate Honors Thesis, Hosted at SSRC_
+**Outlet:** _Undergraduate Honors Thesis hosted at SSRC._
 <br>
 <small>[ <a href="#/" onclick="visib('honorsthesis')">Abstract</a> | [Honors Thesis][honorsthesis-pub] | [Summary][esumm] | [Presentation][pres] ]</small>
 

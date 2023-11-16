@@ -6,7 +6,7 @@ venue: 'USC Center for Public Diplomacy'
 
 ---
 
-**Outlet:** _Opinion Piece in the USC Center for Public Diplomacy_
+**Outlet:** _Opinion Piece in the USC Center for Public Diplomacy._
 <br>
 **Coauthors:** [Srividya Dasaraju][sdasaraju], [Sahit Menon][smenon], and [Hailey Robertson][hrobertson] (Meridian Collective).
 <br>

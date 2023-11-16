@@ -6,7 +6,7 @@ venue: 'Global Epidemics'
 
 ---
 
-**Outlet:** _Opinion Piece in Global Epidemics_
+**Outlet:** _Opinion Piece in Global Epidemics._
 <br>
 **Coauthors:** [Ashish Jha][ajha].
 <br>

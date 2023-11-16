@@ -1,6 +1,7 @@
 ---
 title: "The Networks of Economics: Co-Authorship Maps in 'Top Five' Journals"
 collection: publications
+date: 2023-01-01
 venue: ''
 
 ---

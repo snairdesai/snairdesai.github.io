@@ -6,7 +6,7 @@ venue: 'SSRC'
 
 ---
 
-**Outlet:** _Opinion Piece posted at SSRC_
+**Outlet:** _Opinion Piece posted at SSRC._
 <br>
 **Coauthors:** [Neil Chin][neilc], [Srividya Dasaraju][sdasaraju], [Kavya Nambiar][knambiar], and [Hailey Robertson][hrobertson] (Meridian Collective).
 <br>
