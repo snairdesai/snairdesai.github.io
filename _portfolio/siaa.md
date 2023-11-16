@@ -6,7 +6,7 @@ venue: 'SSRC'
 
 ---
 
-**Outlet:** _Research article posted at SSRC._
+**Outlet:** _Research Article posted at SSRC._
 <br>
 **Coauthors:** [Srividya Dasaraju][sdasaraju] (Meridian Collective).
 <br>
