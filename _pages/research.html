@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign custom_files = "cjdepi, lci, vaxprevdeaths, ascpe, covidmortalitygaps, surgqual, covidshocks, coviddiffusion" | split: ", " %}
 
-{% for post in site.portfolio reversed %}
-  {% include archive-single.html %}
+{% for file in custom_files %}
+  {% assign post = site.portfolio | where: "title", file %}
+  {% if post %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
