@@ -1,12 +1,13 @@
 ---
-title: "Equity, Efficiency, and Partnership: Examining Secondary Education in Kerala, India (Honors Thesis)"
+title: "Equity, Efficiency, and Partnership: Examining Secondary Education in Kerala, India"
 collection: portfolio
 date: 2020-05-08
 venue: 'Social Science Research Council (SSRC)'
 
 ---
 
-<br/>
+**Outlet:** _Undergraduate Honors Thesis, Hosted at SSRC_
+<br>
 <small>[ <a href="#/" onclick="visib('honorsthesis')">Abstract</a> | [Honors Thesis][honorsthesis-pub] | [Summary][esumm] | [Presentation][pres] ]</small>
 
 <div id="honorsthesis" style="display: none; text-align: justify; line-height: 1.2" ><small>

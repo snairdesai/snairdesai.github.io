@@ -1,12 +1,14 @@
 ---
-title: "Winining Hearts & Minds: Through a Shot in the Arm (Op Ed)"
+title: "Winining Hearts & Minds: Through a Shot in the Arm"
 collection: portfolio
 date: 2021-04-21
 venue: 'USC Center for Public Diplomacy'
 
 ---
 
-**Coauthors:** [Srividya Dasaraju][sdasaraju], [Sahit Menon][smenon], and [Hailey Robertson][hrobertson].
+**Outlet:** _Opinion Piece in the USC Center for Public Diplomacy_
+<br>
+**Coauthors:** [Srividya Dasaraju][sdasaraju], [Sahit Menon][smenon], and [Hailey Robertson][hrobertson] (Meridian Collective).
 <br>
 <small>[ <a href="#/" onclick="visib('vaxdiplom')">Abstract</a> | [Op Ed][vaxdiplom-pub] ]</small>
 

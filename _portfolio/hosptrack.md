@@ -1,11 +1,12 @@
 ---
-title: "Hospital Vaccine Mandate Tracker (Data Platform)"
+title: "Hospital Vaccine Mandate Tracker"
 collection: portfolio
 date: 2021-07-24
 venue: 'Global Epidemics'
 
 ---
 
+**Outlet:** _Data Platform on Global Epidemics_
 **Coauthors:** [Benjy Renton][brenton] and [Ashish Jha][ajha].
 <br>
 <small>[ <a href="#/" onclick="visib('hosptrack')">Abstract</a> | [Op Ed][hosptrack-pub] ]</small>

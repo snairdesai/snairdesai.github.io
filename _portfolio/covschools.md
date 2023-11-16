@@ -1,11 +1,13 @@
 ---
-title: "The Case for Open Schools in a Pandemic (Op Ed)"
+title: "The Case for Open Schools in a Pandemic"
 collection: portfolio
 date: 2020-11-16
 venue: 'Global Epidemics'
 
 ---
 
+**Outlet:** _Opinion Piece in Global Epidemics_
+<br>
 **Coauthors:** [Ashish Jha][ajha].
 <br>
 <small>[ <a href="#/" onclick="visib('covschools')">Abstract</a> | [Op Ed][covschools-pub] ]</small>
