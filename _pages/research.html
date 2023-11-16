@@ -7,12 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign custom_files = "cjdepi, lci, vaxprevdeaths, ascpe, covidmortalitygaps, surgqual, covidshocks, coviddiffusion" | split: ", " %}
+{% assign custom_files = "cjdepi.md, lci.md, vaxprevdeaths.md, ascpe.md, covidmortalitygaps.md, surgqual.md, covidshocks.md, coviddiffusion.md" | split: ", " %}
 
 {% for file in custom_files %}
-  {% assign post = site.portfolio | where: "title", file %}
+  {% assign filename = file | prepend: "_portfolio/" %}
+  {% assign post = site.documents | where: "path", filename | first %}
   {% if post %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
