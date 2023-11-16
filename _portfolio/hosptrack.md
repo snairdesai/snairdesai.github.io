@@ -7,6 +7,7 @@ venue: 'Global Epidemics'
 ---
 
 **Outlet:** _Data Platform on Global Epidemics_
+<br>
 **Coauthors:** [Benjy Renton][brenton] and [Ashish Jha][ajha].
 <br>
 <small>[ <a href="#/" onclick="visib('hosptrack')">Abstract</a> | [Op Ed][hosptrack-pub] ]</small>
