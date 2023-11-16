@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign custom_files = "hosptrack.md, vaxdiplom.md, covschools.md, honorsthesis.md, heartlandequity.md" | split: ", " %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% for file in custom_files %}
+  {% assign filename = file | prepend: "_portfolio/" %}
+  {% assign post = site.documents | where: "path", filename | first %}
+  {% if post %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
-
