@@ -13,7 +13,7 @@ Welcome!
 
 I am a 2020 graduate of the University of Southern California, where I studied Economics and Political Science. I am currently a predoctoral research fellow at the [Stanford Institute for Economic Policy Research][Stanford Institute for Economic Policy Research] (SIEPR) and the Department of Economics with Professor [Matthew Gentzkow][Matthew Gentzkow]. Previously, I served as a research assistant at the [Brown University School of Public Health Incubator Lab][Brown University School of Public Health Incubator Lab] with Dean [Ashish Jha][Ashish Jha].
 
-As an aspiring academic, I hope to leverage the intersection of development economics, public policy, and social enterprise for positive social outcomes. My current research agenda focuses on topics at the intersection of health, information, and network economics. I am particularly invested in uncovering the roots of economic inequalities, and identifying the effects of these inequities on marginalized communities in the U.S. and abroad.
+As an aspiring academic, I hope to leverage the intersection of development economics, public policy, and social enterprise for positive social outcomes. My current research agenda focuses on topics at the intersection of development, information, and health economics. I am particularly invested in uncovering the social roots of health inequalities, and identifying the effects of these inequities on marginalized communities in the U.S. and abroad.
 
 For more information on my professional background, please see my [Research][Research] page or my [CV][CV]. My [personal website][personal website] provides detailed information on my coursework and RA experiences.
 
