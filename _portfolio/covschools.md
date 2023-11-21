@@ -31,4 +31,4 @@ This opinion piece presented the case for school (re)openings during the COVID-1
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('covschools')" class="btn btn--inverse btn--small">Abstract</button>

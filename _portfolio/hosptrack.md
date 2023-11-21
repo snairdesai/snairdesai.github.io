@@ -32,4 +32,4 @@ Our hospital vaccine mandate tracker provided academics, policymakers, and the b
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('hosptrack')" class="btn btn--inverse btn--small">Abstract</button>

@@ -36,4 +36,4 @@ We compare the importance of market factors against that of coronavirus disease-
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('covidshocks')" class="btn btn--inverse btn--small">Abstract</button>

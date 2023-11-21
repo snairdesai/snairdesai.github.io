@@ -34,4 +34,4 @@ This op ed examines whether international institutions’ COVID-19 response fund
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('ghf')" class="btn btn--inverse btn--small">Abstract</button>

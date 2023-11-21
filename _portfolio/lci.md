@@ -40,4 +40,4 @@ Despite complex care needs during critical COVID-19, the associated long-term he
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('lci')" class="btn btn--inverse btn--small">Abstract</button>

@@ -33,4 +33,4 @@ Creutzfeldt–Jakob disease (CJD) is a rapidly progressive and universally fatal
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('cjdepi')" class="btn btn--inverse btn--small">Abstract</button>

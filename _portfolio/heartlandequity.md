@@ -33,4 +33,4 @@ venue: 'USC Equity Research Institute Policy Briefs'
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('heartlandequity')" class="btn btn--inverse btn--small">Abstract</button>

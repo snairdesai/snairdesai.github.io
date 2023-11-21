@@ -33,4 +33,4 @@ One of the most important consequences of the COVID-19 pandemic on health care d
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('surgqual')" class="btn btn--inverse btn--small">Abstract</button>

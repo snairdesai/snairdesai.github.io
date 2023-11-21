@@ -33,4 +33,4 @@ This op ed built on prior work in healthcare decentralization, with an applicati
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('vaxdiplom')" class="btn btn--inverse btn--small">Abstract</button>

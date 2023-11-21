@@ -43,4 +43,4 @@ In early 2021, effective SARS-CoV-2 (COVID-19) vaccines became available in the 
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('vaxprevdeaths')" class="btn btn--inverse btn--small">Abstract</button>

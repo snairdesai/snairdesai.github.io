@@ -36,4 +36,4 @@ Key factors in modeling a pandemic and guiding policy-making include mortality r
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('coviddiffusion')" class="btn btn--inverse btn--small">Abstract</button>

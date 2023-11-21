@@ -37,4 +37,4 @@ We evaluate quartile rankings of countries during the COVID-19 pandemic using bo
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('covidmortalitygaps')" class="btn btn--inverse btn--small">Abstract</button>

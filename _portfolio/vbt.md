@@ -38,4 +38,4 @@ Understanding the rate and clinical features associated with vaccine breakthroug
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('vbt')" class="btn btn--inverse btn--small">Abstract</button>
