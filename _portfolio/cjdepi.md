@@ -10,7 +10,7 @@ abstract: "Creutzfeldt–Jakob disease (CJD) is a rapidly progressive and univer
 <br>
 **Coauthors:** [Matthew Crane][mcrane], [Alison Gemmill][agem], [John A Romley][jromley], and [John Probasco][jprobasco].
 <br/>
-<small>[ [Published Version][cjdepi-pub] | [GitHub][cjdepi-gh] ] </small>
+**Assets:** [ [Published Version][cjdepi-pub] | [GitHub][cjdepi-gh] ]
 
 [cjdepi-pub]:{{ site.baseurl }}{% link files/CJDEpi.pdf %}
 
