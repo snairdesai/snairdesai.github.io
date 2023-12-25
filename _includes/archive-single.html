@@ -34,6 +34,14 @@
       {% endif %}
     </h2>
 
+    <!-- Abstract Toggle Link -->
+    <p style="margin-top: 0;"><strong><a href="javascript:void(0);" style="font-size: 90%;" onclick="toggleAbstract('{{ post.title | slugify }}')">Click for Abstract</a></strong></p>
+
+    <!-- Hidden Div for Abstract -->
+    <div id="abstract-{{ post.title | slugify }}" style="display: none; text-align: justify; line-height: 1.2">
+      {{ post.abstract | markdownify }}
+    </div>
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -60,13 +68,6 @@
       <p>Download <a href="{{ post.paperurl }}"><u>here</u></a></p>
     {% endif %}
 
-    <!-- Abstract Toggle Link -->
-    <p style="margin-top: 0;"><strong><a href="javascript:void(0);" style="font-size: 90%;" onclick="toggleAbstract('{{ post.title | slugify }}')">Click for Abstract</a></strong></p>
-
-    <!-- Hidden Div for Abstract -->
-    <div id="abstract-{{ post.title | slugify }}" style="display: none; text-align: justify; line-height: 1.2">
-      {{ post.abstract | markdownify }}
-    </div>
   </article>
 </div>
 
