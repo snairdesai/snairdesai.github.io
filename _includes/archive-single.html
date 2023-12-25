@@ -35,7 +35,7 @@
     </h2>
 
     <!-- Abstract Toggle Link -->
-    <p style="text-align: center;"><strong><a href="javascript:void(0);" style="font-size: 100%;" onclick="toggleAbstract('{{ post.title | slugify }}')">Click for Abstract</a></strong></p>
+    <p style="text-align: center;"><a href="javascript:void(0);" style="font-size: 100%; color: black; text-decoration: none; font-style: italic;" onclick="toggleAbstract('{{ post.title | slugify }}')">Click for Abstract</a></p>
 
     <!-- Hidden Div for Abstract -->
     <div id="abstract-{{ post.title | slugify }}" style="display: none; text-align: justify; line-height: 1.2">
