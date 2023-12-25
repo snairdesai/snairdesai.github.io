@@ -34,8 +34,10 @@
       {% endif %}
     </h2>
 
-    <!-- Abstract Toggle Link -->
-    <p style="text-align: center;"><a href="javascript:void(0);" style="font-size: 100%; color: black; text-decoration: none; font-style: italic; font-weight: bold;" onclick="toggleAbstract('{{ post.title | slugify }}')">Click for Abstract</a></p>
+    <!-- Abstract Toggle Button -->
+    <p style="text-align: center;">
+      <button onclick="toggleAbstract('{{ post.title | slugify }}')" style="background-color: #f2f2f2; color: black; padding: 8px 15px; border: none; border-radius: 5px; cursor: pointer; font-size: 90%; font-weight: bold; font-style: italic;">Click for Abstract</button>
+    </p>
 
     <!-- Hidden Div for Abstract -->
     <div id="abstract-{{ post.title | slugify }}" style="display: none; text-align: justify; line-height: 1.2">
@@ -48,6 +50,8 @@
 
     {% if post.collection == 'teaching' %}
       <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: '1900-01-01' | date: '%Y' }}</p>
+    {% elsif post.collection == 'publications' %}
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: '1900-01-01' | date: '%Y' }}</p>
     {% elsif post.date %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: 'Published:' }}</strong> <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">{{ post.date | default: '1900-01-01' | date: '%B %d, %Y' }}</time></p>
     {% endif %}
