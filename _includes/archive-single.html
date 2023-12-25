@@ -34,14 +34,6 @@
       {% endif %}
     </h2>
 
-    <!-- Abstract Toggle Link -->
-    <p> <a href="javascript:void(0);" onclick="toggleAbstract('{{ post.title | slugify }}')">Abstract</a> </p>
-
-    <!-- Hidden Div for Abstract -->
-    <div id="abstract-{{ post.title | slugify }}" style="display: none; text-align: justify; line-height: 1.2">
-      {{ post.abstract | markdownify }}
-    </div>
-    
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -57,17 +49,24 @@
     {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></p>
     {% endif %}
-    
+
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+      <p>Recommended citation: {{ post.citation }}</p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p>Download <a href="{{ post.paperurl }}"><u>here</u></a></p>
     {% endif %}
 
+    <!-- Abstract Toggle Link -->
+    <p><strong><small><a href="javascript:void(0);" style="font-size: smaller;" onclick="toggleAbstract('{{ post.title | slugify }}')">Click for Abstract</a></small></strong></p>
+
+    <!-- Hidden Div for Abstract -->
+    <div id="abstract-{{ post.title | slugify }}" style="display: none; text-align: justify; line-height: 1.2">
+      {{ post.abstract | markdownify }}
+    </div>
   </article>
 </div>
 
