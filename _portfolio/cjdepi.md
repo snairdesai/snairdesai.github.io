@@ -1,5 +1,5 @@
 ---
-title: "Epidemiology of Creutzfeldt-Jakob Disease in the United States, 2007-2022"
+title: "Change in Epidemiology of Creutzfeldt-Jakob Disease in the US, 2007-2020"
 collection: portfolio
 date: 2023-12-11
 venue: 'JAMA Neurology'
