@@ -6,11 +6,7 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
+{% assign is_work_in_progress = post.path contains 'deactivation' or post.path contains 'coauthorecon' or post.path contains 'inflshocks' %}
 
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -34,29 +30,21 @@
       {% endif %}
     </h2>
 
-    {% if post.collection != 'workinprogress' %}
+    {% unless is_work_in_progress %}
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: '1900-01-01' | date: '%Y' }}</p>
       <!-- Abstract Toggle Button -->
       <p style="text-align: center;">
         <button onclick="toggleAbstract('{{ post.title | slugify }}')" style="background-color: #E8E9EB; border: 1px solid #ACADA8; padding: 5px 16px; font-size: 14px; font-weight: 600; line-height: 20px; border-radius: 6px; cursor: pointer; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Click for Abstract</button>
       </p>
-      
       <!-- Hidden Div for Abstract -->
       <div id="abstract-{{ post.title | slugify }}" style="display: none; text-align: justify; line-height: 1.2">
         {{ post.abstract | markdownify }}
       </div>
-    {% endif %}
+    {% endunless %}
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-
-    {% unless post.collection == 'workinprogress' %}
-      {% if post.collection == 'publications' %}
-        <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: '1900-01-01' | date: '%Y' }}</p>
-      {% elsif post.date %}
-        <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: 'Published:' }}</strong> <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">{{ post.date | default: '1900-01-01' | date: '%B %d, %Y' }}</time></p>
-      {% endif %}
-    {% endunless %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
@@ -71,7 +59,6 @@
     {% elsif post.paperurl %}
       <p>Download <a href="{{ post.paperurl }}"><u>here</u></a></p>
     {% endif %}
-    
   </article>
 </div>
 
