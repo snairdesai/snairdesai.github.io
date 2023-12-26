@@ -2,12 +2,12 @@
 title: "The Case for Open Schools in a Pandemic"
 collection: portfolio
 date: 2020-11-16
-venue: 'Global Epidemics (Nov. 2020)'
+venue: 'Global Epidemics'
 abstract: "This opinion piece presented the case for school (re)openings during the COVID-19 pandemic. In the midst of the COVID-19 pandemic, politicians, clinicians, and the American people were attempting to balance lives against livelihoods. Nowhere was this tradeoff more pronounced than in elementary education. When deciding whether to open our schools, we argued that we must weigh the risks of contagion against the costs of remote learning. Policymakers needed to consider two key questions in the school debate: 1. do schools drive transmission in the community? and 2. do high community transmission rates drive outbreaks in schools?"
 
 ---
 
-**Outlet:** _Opinion Piece in Global Epidemics._
+**Outlet:** _Opinion Piece in Global Epidemics (Nov. 2020)_
 <br>
 **Coauthors:** [Ashish Jha][ajha].
 <br>
