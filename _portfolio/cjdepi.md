@@ -2,7 +2,7 @@
 title: "Change in Epidemiology of Creutzfeldt-Jakob Disease in the US, 2007-2020"
 collection: portfolio
 date: 2023-12-11
-venue: 'JAMA Neurology'
+venue: 'JAMA Neurology (Dec. 2023)'
 abstract: "Creutzfeldt–Jakob disease (CJD) is a rapidly progressive and universally fatal prion disease. Prior research on CJD in the US demonstrated stable incidence from 1979-2006, though recent trends are not as well described. The incidence of sporadic CJD (sCJD), the most common type of CJD, is higher among older patients. Due to demographic trends worldwide towards aging populations, the epidemiology of CJD is evolving. We examined death certificate data from 2007-2020 to better understand recent trends of CJD in the US."
 ---
 

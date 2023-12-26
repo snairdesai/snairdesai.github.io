@@ -2,7 +2,7 @@
 title: "An Analysis of SARS-CoV-2 Vaccine Breakthrough Infections and Associated Clinical Outcomes"
 collection: portfolio
 date: 2021-09-21
-venue: 'medRxiv'
+venue: 'medRxiv (Sep. 2021)'
 abstract: "Understanding the rate and clinical features associated with vaccine breakthrough COVID-19 infections (VBT) is of critical public health importance. Recent evidence on VBT in Barnstable County, Massachusetts, has prompted guidance on masking for vaccinated individuals in areas of high community-level transmission. Additional data is needed to better understand the prevalence and rate of VBT infections. Using detailed disease investigation data from Washoe County, Nevada, we sought to assess the rate of symptomatic infectionand serious illness among VBT cases compared to non-vaccinated individuals with COVID-19. From February 12 - July 29, 2021, the Washoe County Health District identified and traced 6,128 out of 6,399 reported cases across the sample period. 338 (5.5%) of all cases were identified as breakthrough infections, and 289 (86%) vaccinated individuals had symptomatic infections. Severe clinical outcomes were infrequent with 17 hospitalizations (5% of VBT) and no deaths. Cycle threshold values were not statistically different between vaccinated and unvaccinated individuals."
 
 ---
