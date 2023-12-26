@@ -12,59 +12,38 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% assign is_work_in_progress = post.path contains 'deactivation' or post.path contains 'coauthorecon' or post.path contains 'inflshocks' %}
+{% assign is_work_in_progress = post.url contains 'workinprogress' %}
 
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: '/images/' | prepend: base_path }}"
-          {% endif %}
-          alt="">
+        <img src="{{ teaser | prepend: '/images/' | prepend: base_path }}" alt="">
       </div>
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> 
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-          <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
-          <span class="sr-only">Permalink</span>
-        </a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
+      <a href="{{ post.url | prepend: base_path }}" rel="permalink">{{ title }}</a>
     </h2>
 
     {% unless is_work_in_progress %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: '1900-01-01' | date: '%Y' }}</p>
-
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: '%Y' }}</p>
       <p style="text-align: center;">
-        <button onclick="toggleAbstract('{{ post.title | slugify }}')" style="background-color: #E8E9EB; border: 1px solid #ACADA8; padding: 5px 16px; font-size: 14px; font-weight: 600; line-height: 20px; border-radius: 6px; cursor: pointer; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">
+        <button onclick="toggleAbstract('{{ post.title | slugify }}')" style="...">
           Click for Abstract
         </button>
       </p>
-
-      <div id="abstract-{{ post.title | slugify }}" style="display: none; text-align: justify; line-height: 1.2">
+      <div id="abstract-{{ post.title | slugify }}" style="...">
         {{ post.abstract | markdownify }}
       </div>
     {% endunless %}
 
     {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ read_time }}</p>
     {% endif %}
 
     {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | markdownify }}
-        {% if site.read_more == 'enabled' %}
-          <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong>
-        {% endif %}
-      </p>
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
 
     {% if post.citation %}
