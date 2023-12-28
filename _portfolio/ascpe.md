@@ -1,5 +1,5 @@
 ---
-title: "Changes in Clinical Outcomes Associated with Private Equity and Non-Private Equity Acquisitions of ASCs"
+title: "Private Equity Acquisitions Of Ambulatory Surgical Centers Were Not Associated With Quality, Cost, Or Volume Changes"
 collection: portfolio
 date: 2022-09-01
 venue: 'Health Affairs'
