@@ -1,5 +1,5 @@
 ---
-title: "Winining Hearts & Minds: Through a Shot in the Arm"
+title: "Winning Hearts & Minds: Through a Shot in the Arm"
 collection: portfolio
 date: 2021-04-21
 venue: 'USC Center for Public Diplomacy'
