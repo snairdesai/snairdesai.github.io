@@ -6,7 +6,7 @@ venue: 'Work in Progress'
 
 ---
 
-**Coauthors:** [Juan Carlos Cisneros][jccp] and [Marie Kaul][mck]
+**Coauthors:** [Juan Carlos Cisneros][jccp] and [Marie Kaul][mck].
 <br>
 
 [jccp]: https://jccisneros.com/
