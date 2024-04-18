@@ -12,7 +12,6 @@ venue: 'Work in Progress'
 [jccp]: https://jccisneros.com/
 [sdasaraju]: https://www.linkedin.com/in/srividya-dasaraju-580a05133/
 
-<br/>
 **Assets:** [ [Pitchdeck][econ-cliometrics] ]
 
 [econ-cliometrics]:{{ site.baseurl }}{% link files/EconCliometrics.pdf %}

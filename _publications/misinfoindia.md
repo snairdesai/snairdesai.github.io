@@ -11,7 +11,6 @@ venue: 'Work in Progress'
 
 [jccp]: https://jccisneros.com/
 
-<br/>
 **Assets:** [ [Pitchdeck][misinfo-india] ]
 
 [misinfo-india]:{{ site.baseurl }}{% link files/MisinfoIndia.pdf %}

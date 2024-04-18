@@ -1,5 +1,5 @@
 ---
-title: "The Welfare Effects of Healthcare Expansions to Immigrant Communities: Evidence from Medi-Cal"
+title: "The Welfare Effects of Healthcare Expansions to Immigrant Communities"
 collection: publications
 date: 2023-01-01
 venue: 'Work in Progress'
