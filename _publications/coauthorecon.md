@@ -1,5 +1,5 @@
 ---
-title: "The Networks of Economics: Co-Authorship Maps in 'Top Five' Journals"
+title: "Academic Mobility in Economics"
 collection: publications
 date: 2023-01-01
 venue: 'Work in Progress'
@@ -12,16 +12,7 @@ venue: 'Work in Progress'
 [jccp]: https://jccisneros.com/
 [sdasaraju]: https://www.linkedin.com/in/srividya-dasaraju-580a05133/
 
-[//]: This java script is the button to show abstract
-<script>
- function visib(id) {
-  var x = document.getElementById(id);
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
+<br/>
+**Assets:** [ [Pitchdeck][econ-cliometrics] ]
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[econ-cliometrics]:{{ site.baseurl }}{% link files/EconCliometrics.pdf %}
