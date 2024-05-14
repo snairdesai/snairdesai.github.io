@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign custom_files = "deactivation.md, inflshocks.md, coauthorecon.md, misinfoindia.md, cinsocial.md, jamapol.md" | split: ", " %}
+{% assign custom_files = "inflshocks.md, coauthorecon.md, misinfoindia.md, cinsocial.md, jamapol.md" | split: ", " %}
 
 {% for file in custom_files %}
   {% assign filename = file | prepend: "_publications/" %}
