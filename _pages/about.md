@@ -23,4 +23,4 @@ As an aspiring academic, I hope to leverage the intersection of development econ
 [Ashish Jha]: https://dean.sph.brown.edu/dean
 [Research]: https://snairdesai.github.io/research/
 [personal website]: https://sameernairdesai.wordpress.com/
-[CV]:{{ site.baseurl }}{% link files/SND_Academic_CV_2023.pdf %}
+[CV]:{{ site.baseurl }}{% link files/SND_CV_2024.pdf %}
