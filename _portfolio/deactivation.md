@@ -10,11 +10,8 @@ abstract: "We study the effect of Facebook and Instagram access on political bel
 **Coauthors:** [Hunt Allcott][hallcott], [Matthew Gentzkow][mgentzkow] (two co-lead authors), et al.
 <br>
 _Part of the [2020 Facebook and Instagram Election Studies][fies]._
-<br/>
-
-<br>
 **Assets:** [ [Published Version][deactivation-pub] | [Research Summary][deactivation-summ] ]
-<br/>
+</br>
 
 [hallcott]: https://allcott.stanford.edu/
 [mgentzkow]: https://www.matthewgentzkow.com/
