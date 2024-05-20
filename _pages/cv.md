@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Academic CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Latest version: <a href="https://snairdesai.github.io/files/SND_CV_2024.pdf">here</a>
 
 <object data="https://snairdesai.github.io/files/SND_CV_2024.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://snairdesai.github.io/files/SND_CV_2024.pdf">
