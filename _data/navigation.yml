@@ -1,5 +1,8 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /cv/
     
   - title: "Published Research"
     url: /research/

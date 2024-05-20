@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Latest version: <a href="https://snairdesai.github.io/files/SND_CV_2024.pdf">here</a>
+
+<object data="https://snairdesai.github.io/files/SND_CV_2024.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://snairdesai.github.io/files/SND_CV_2024.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://snairdesai.github.io/files/SND_CV_2024.pdf" target="_blank"><u>here</u></a>.
+        </embed>
+</object>
+
+<p> </p>
+
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +68,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
