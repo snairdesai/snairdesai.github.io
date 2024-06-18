@@ -7,6 +7,8 @@ abstract: "We study the effect of Facebook and Instagram access on political bel
 
 ---
 
+**Journal:** _Proceedings of the National Academy of Sciences (May 2024)_
+<br>
 **Coauthors:** [Hunt Allcott][hallcott], [Matthew Gentzkow][mgentzkow] (two co-lead authors), et al.
 <br>
 **Assets:** [ [Published Version][deactivation-pub] | [Research Summary][deactivation-summ] | [2020 Facebook and Instagram Election Studies][fies] ]
