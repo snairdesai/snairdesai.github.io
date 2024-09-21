@@ -13,9 +13,7 @@ Welcome!
 
 I am a first-year PhD student in Economics at the University of Michigan. My research agenda focuses on topics at the intersection of development, health, and political economics.
 
-Prior to the PhD, I served as a predoctoral research fellow at the [Stanford Institute for Economic Policy Research][Stanford Institute for Economic Policy Research] (SIEPR) with Professor [Matthew Gentzkow][Matthew Gentzkow]. Before this, I served as a research assistant at the [Brown University School of Public Health Incubator Lab][Brown University School of Public Health Incubator Lab] with Dean [Ashish Jha][Ashish Jha]. I earned my BA at the University of Southern California, where I studied Economics and Political Science. 
-
-As an aspiring academic, I hope to leverage the intersection of development economics, public policy, and social enterprise for positive social outcomes. I am particularly invested in uncovering the social roots of health inequalities, and identifying the effects of these inequities on marginalized communities in the U.S. and abroad.
+I previously served as a predoctoral research fellow at the [Stanford Institute for Economic Policy Research][Stanford Institute for Economic Policy Research] (SIEPR) with Professor [Matthew Gentzkow][Matthew Gentzkow], and as a full-time research assistant at the [Brown University School of Public Health][Brown University School of Public Health Incubator Lab] with Dean [Ashish Jha][Ashish Jha]. I earned my BA at the University of Southern California, where I studied Economics and Political Science.
 
 *For more information on my professional background, please see my [Research][Research] page or my [CV][CV]. My [personal website][personal website] provides detailed information on my coursework and RA experiences.*
 
