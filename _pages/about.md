@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome!"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
   - https://sameernairdesai.wordpress.com/
 ---
-
-Welcome!
 
 I am a first-year PhD student in Economics at the University of Michigan. My research agenda focuses on topics at the intersection of development, health, and political economics.
 
