@@ -12,6 +12,9 @@ abstract: "Key factors in modeling a pandemic and guiding policy-making include 
 **Coauthors:** [Joshua Aizenman][jaizenman], [Yothin Jinjarak][jinjaraky], [Rashad Ahmed][rahmed] and [Weining Xin][weiningx].
 <br/>
 **Assets:** [ [NBER Working Paper][coviddiffusion-nberwp] | [Published Version][coviddiffusion-pub] | [GitHub][coviddiffusion-gh] ]
+> Key factors in modeling a pandemic and guiding policy-making include mortality rates associated with infections; the ability of government policies, medical systems, and society to adapt to the changing dynamics of a pandemic; and institutional and demographic characteristics affecting citizens’ perceptions and behavioral responses to stringent policies. We trace the cross-country associations between COVID-19 mortality, policy interventions aimed at limiting social contact, and their interactions with institutional and demographic characteristics. With a lag, more stringent pandemic policies were associated with lower mortality growth rates. The association between stricter pandemic policies and lower future mortality growth is more pronounced in countries with a greater proportion of the elderly population and urban population, greater democratic freedoms, and larger international travel flows. Countries with greater policy stringency in place prior to the first death realized lower peak mortality rates and exhibited lower durations to the first mortality peak. In contrast, countries with higher initial mobility saw higher peak mortality rates in the first phase of the pandemic, and countries with a larger elderly population, a greater share of employees in vulnerable occupations, and a higher level of democracy took longer to reach their peak mortalities.
+> </div>
+
 
 [coviddiffusion-nberwp]:{{ site.baseurl }}{% link files/COVIDDiffusionNBER.pdf %}
 [coviddiffusion-pub]:{{ site.baseurl }}{% link files/COVIDDiffusion.pdf %}

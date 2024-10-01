@@ -12,7 +12,7 @@ abstract: "We study the effect of Facebook and Instagram access on political bel
 **Coauthors:** [Hunt Allcott][hallcott], [Matthew Gentzkow][mgentzkow] (two co-lead authors), et al.
 <br>
 **Assets:** [ [Published Version][deactivation-pub] | [Research Summary][deactivation-summ] | [2020 Facebook and Instagram Election Studies][fies] ]
-> <div style="font-size: 0.8em; font-style: italic; margin-top: -10px;">
+> <div style="font-size: 0.8em; font-style: italic; margin-top: -20px;">
 > We study the effects of removing Facebook and Instagram access on users' political beliefs, attitudes, and behavior in the runup to the 2020 U.S. presidential election. Facebook and Instagram deactivation reduced an index of political participation, driven mainly by reduced participation online. Facebook deactivation had no significant effect on an index of knowledge, but reduced knowledge of general news and potentially decreased belief in online misinformation. Facebook deactivation may have also reduced self-reported net votes for Trump, though this effect does not meet our preregistered significance threshold. The effects of both Facebook and Instagram deactivation on affective and issue polarization, perceived legitimacy of the election, candidate favorability, and voter turnout were all precisely estimated near zero.
 > </div>
 

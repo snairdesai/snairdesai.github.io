@@ -12,6 +12,9 @@ abstract: "Despite complex care needs during critical COVID-19, the associated l
 **Coauthors:** [Laura Chambers][lchambers], [Mark Soto][msoto], [Caroline Behr][cbehr], [Leah Lovgren][llovgren], [Tamsin Zandstra][tzandstra], [Scott Rivkees][srivkees], [Ning Rosenthal][nrosenthal], [Francesca Beaudoin][fbeaudoin], and [Thomas Tsai][ttsai].
 <br/>
 **Assets:** [ [Published Version][lci-pub] ]
+> <div style="font-size: 0.8em; font-style: italic; margin-top: -20px;">
+> Despite complex care needs arising from critical COVID-19 cases, the associated long-term healthcare spending of patients remains poorly understood. We conducted a retrospective cohort study of adults hospitalised with COVID-19 in the U.S. (April ‒ June 2020) using data from the national PINC AI Healthcare Database. Patients were followed for one year from the date of admission to trace hospital spending. Patients who received care in the intensive care unit, received a non-recommended COVID-19 treatment, had a longer length of stay, and had Medicare or Medicaid insurance were associated with a higher probability of high hospital spending. Most hospital spending incurred over 1 year was spent on care provided within 90 days of admission.
+> </div>
 
 [lci-pub]:{{ site.baseurl }}{% link files/LCI.pdf %}
 

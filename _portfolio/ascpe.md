@@ -12,6 +12,9 @@ abstract: "Ambulatory surgical centers (ASCs) are increasingly being acquired by
 **Coauthors:** [Joseph Bruch][jbruch], [Thomas Tsai][ttsai] and [John Orav][jorav].
 <br/>
 **Assets:** [ [Published Version][ascpe-pub] ]
+> <div style="font-size: 0.8em; font-style: italic; margin-top: -20px;">
+> Ambulatory surgical centers (ASCs) are increasingly being acquired by private equity firms, yet the implications for patients remain understudied. We employed a quasi-experimental difference-in-differences design within an event study framework to assess changes in outcomes associated with the acquisition of ASCs by private equity entities. We identified ninety-one ASCs acquired by private equity entities, and fifty-seven ASCs acquired by non–private equity entities during the period from 2011 – 2014. There was no statistically significant observed change in the probability of an unplanned hospital visit, total costs, or total encounters after acquisition by private equity relative to acquisition by non–private equity entities. Comparisons between private equity–acquired ASCs with matched ASCs that were never acquired also revealed no statistically significant relative change in the probability of an unplanned hospital visit, total costs, or total encounters.
+> </div>
 
 [ascpe-pub]:{{ site.baseurl }}{% link files/ASCPE.pdf %}
 [jbruch]: https://pbhs.uchicago.edu/faculty/joseph-dov-bruch-phd
