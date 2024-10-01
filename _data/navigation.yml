@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-    url: files/SND_CV_2024.pdf
+    url: /files/SND_CV_2024.pdf
     
   - title: "Research"
     url: /research/
