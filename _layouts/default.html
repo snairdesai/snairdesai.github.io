@@ -27,5 +27,17 @@ layout: compress
 
     {% include scripts.html %}
 
+  <!-- Add the JavaScript for toggling the abstract -->
+  <script>
+    function toggleAbstract() {
+      var abstract = document.getElementById("abstract");
+      if (abstract.style.display === "none" || abstract.style.display === "") {
+        abstract.style.display = "block";
+      } else {
+        abstract.style.display = "none";
+      }
+    }
+  </script>
+
   </body>
 </html>
