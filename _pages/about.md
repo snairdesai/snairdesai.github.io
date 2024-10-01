@@ -19,7 +19,7 @@ I previously served as a predoctoral research fellow at the [Stanford Institute 
 
 <style>
   .custom-link {
-    background-color: #f0f0f0; /* Light gray */
+    background-color: #e0d8d1; /* Darker shade of light gray */
     padding: 10px;
     display: inline-block;
     text-decoration: none !important;
@@ -28,7 +28,7 @@ I previously served as a predoctoral research fellow at the [Stanford Institute 
     transition: background-color 0.3s; /* Smooth transition for background color */
   }
   .custom-link:hover {
-    background-color: #d0d0d0; /* Darker shade of gray */
+    background-color: #f0e68c; /* Keeping hover color as eggshell-like tone (light khaki) */
   }
 </style>
 
