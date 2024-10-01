@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sameer Nair-Desai"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 

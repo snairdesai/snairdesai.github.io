@@ -1,5 +1,5 @@
 ---
-title: "A Cross-National Examination of Economic and Governance Reactions to Global Inflation Shocks (2010 - 2022)"
+title: "Economic and Governance Reactions to Global Inflation Shocks: 2010 - 2022"
 collection: publications
 date: 2023-01-01
 venue: 'Work in Progress'
