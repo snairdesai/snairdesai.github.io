@@ -4,11 +4,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Published Research"
+  - title: "Research"
     url: /research/
-
-  - title: "Open Access Research"
-    url: /openaccess/
 
   - title: "Work in Progress"
     url: /workinprogress/
