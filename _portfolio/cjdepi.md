@@ -12,7 +12,7 @@ abstract: "Creutzfeldt–Jakob disease (CJD) is a rapidly progressive and univer
 <br/>
 **Assets:** [ [Published Version][cjdepi-pub] | [GitHub][cjdepi-gh] ]
 > <div style="font-size: 0.8em; font-style: italic; margin-top: -20px;">
-> Creutzfeldt–Jakob disease (CJD) is a rapidly progressive and universally fatal prion disease. Prior research on CJD in the U.S. demonstrated a stable incidence rate from 1979 - 2006, though recent trends are not as well described. The incidence of sporadic CJD (sCJD), the most common type of CJD, is higher among older patients. Due to demographic trends worldwide towards aging populations, the epidemiology of CJD is evolving. We examined death certificate data from 2007 - 2020 to better understand recent trends of CJD in the U.S. We find evidence of large increases in CJD prevelance, concentraded amongst the elderly and female U.S. population.
+> Creutzfeldt–Jakob disease (CJD) is a rapidly progressive and universally fatal prion disease. Prior research on CJD in the U.S. demonstrated a stable incidence rate from 1979 - 2006, though recent trends are not as well described. The incidence of sporadic CJD (sCJD), the most common type of CJD, is higher among older patients. Due to demographic trends worldwide towards aging populations, the epidemiology of CJD is evolving. We examined death certificate data from 2007 - 2020 to better understand recent trends of CJD in the U.S. We find evidence of large increases in CJD prevelance, mostly concentrated amongst the elderly and female U.S. population.
 > </div>
 
 [cjdepi-pub]:{{ site.baseurl }}{% link files/CJDEpi.pdf %}

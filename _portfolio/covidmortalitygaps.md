@@ -13,6 +13,7 @@ abstract: "We evaluate quartile rankings of countries during the COVID-19 pandem
 **Coauthors:** [Joshua Aizenman][jaizenman], [Alex Cukierman][acukierman], [Yothin Jinjarak][jinjaraky] and [Weining Xin][weiningx].
 <br/>
 **Assets:** [ [NBER Working Paper][covidmortalitygaps-nberwp] | [Published Version][covidmortalitygaps-pub] | [GitHub][covidmortalitygaps-gh] ]
+> <div style="font-size: 0.8em; font-style: italic; margin-top: -20px;">
 > We evaluate quartile rankings of countries during the COVID-19 pandemic using both official (confirmed) and excess mortality data. By December 2021, the quartile rankings of three-fifths of the countries differ when ranked by excess vs. official mortality. Countries that were "doing substantially better" in the excess mortality measure were characterized by higher urban population shares; higher GDP per capita; and higher scores on institutional and policy variables. In a narrow model, after controlling for GDP per capita and vaccination rates, we find that the Excess / Official mortality ratio was smaller in countries with higher vaccination rates. In a broader model, after adding institutional and policy variables, the Excess / Official mortality ratio was smaller in countries with a higher institutional measure of voice and accountability.
 > </div>
 
