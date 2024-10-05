@@ -7,9 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign custom_files = "deactivation.md, cjdepi.md, lci.md, ascpe.md, covidmortalitygaps.md, surgqual.md, covidshocks.md, coviddiffusion.md" | split: ", " %}
+<h2>Economics Publications</h2>
+{% assign econ_files = "deactivation.md, covidmortalitygaps.md, covidshocks.md, coviddiffusion.md" | split: ", " %}
+{% for file in econ_files %}
+  {% assign filename = file | prepend: "_portfolio/" %}
+  {% assign post = site.documents | where: "path", filename | first %}
+  {% if post %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
-{% for file in custom_files %}
+<h2>Health Publications</h2>
+{% assign health_files = "cjdepi.md, lci.md, ascpe.md, surgqual.md" | split: ", " %}
+{% for file in health_files %}
   {% assign filename = file | prepend: "_portfolio/" %}
   {% assign post = site.documents | where: "path", filename | first %}
   {% if post %}
