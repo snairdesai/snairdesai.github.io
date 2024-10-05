@@ -1,15 +1,14 @@
 ---
 layout: archive
-title: "Peer-Reviewed Publications"
+title: ""
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<h1 style="text-align: center;">Peer-Reviewed Publications</h1>
+<h1 style="text-align: center; font-style: italic;">Economics</h1>
 
-<h2 style="text-align: center; font-size: larger; font-style: italic;">Economics</h2>
 {% assign econ_files = "deactivation.md, covidmortalitygaps.md, covidshocks.md, coviddiffusion.md" | split: ", " %}
 {% for file in econ_files %}
   {% assign filename = file | prepend: "_portfolio/" %}
@@ -19,7 +18,8 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2 style="text-align: center; font-size: larger; font-style: italic;">Health Policy</h2>
+<h1 style="text-align: center; font-style: italic;">Health Policy</h1>
+
 {% assign health_files = "cjdepi.md, lci.md, ascpe.md, surgqual.md" | split: ", " %}
 {% for file in health_files %}
   {% assign filename = file | prepend: "_portfolio/" %}
