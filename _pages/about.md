@@ -43,4 +43,4 @@ I previously served as a predoctoral research fellow at the [Stanford Institute 
 [Matthew Gentzkow]: https://www.matthewgentzkow.com/bio/
 [Brown University School of Public Health Incubator Lab]: https://dean.sph.brown.edu/incubator-lab
 [Ashish Jha]: https://dean.sph.brown.edu/dean
-[CV]:{{ site.baseurl }}{% link files/SND_CV_2024.pdf %}
+[CV]:{{ site.baseurl }}{% link files/SND_Academic_CV_2025.pdf %}

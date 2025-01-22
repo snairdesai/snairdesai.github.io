@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="https://snairdesai.github.io/files/SND_CV_2024.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://snairdesai.github.io/files/SND_CV_2024.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://snairdesai.github.io/files/SND_CV_2024.pdf" target="_blank"><u>here</u></a>.
+<object data="https://snairdesai.github.io/files/SND_Academic_CV_2025.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://snairdesai.github.io/files/SND_Academic_CV_2025.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://snairdesai.github.io/files/SND_Academic_CV_2025.pdf" target="_blank"><u>here</u></a>.
         </embed>
 </object>
 
