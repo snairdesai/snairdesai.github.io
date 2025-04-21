@@ -1,7 +1,7 @@
 ---
 title: "The Effect of Deactivating Facebook and Instagram on Users' Emotional State"
 collection: publications
-date: 2023-01-01
+date: 2025-04-21
 venue: 'Work in Progress'
 
 ---
