@@ -9,7 +9,7 @@ author_profile: true
 
 <h1 style="text-align: center; font-style: italic;">Economics Publications</h1>
 
-{% assign econ_files = "deactivation.md, covidmortalitygaps.md, covidshocks.md, coviddiffusion.md" | split: ", " %}
+{% assign econ_files = "emotionalstate.md, deactivation.md, covidmortalitygaps.md, covidshocks.md, coviddiffusion.md" | split: ", " %}
 {% for file in econ_files %}
   {% assign filename = file | prepend: "_portfolio/" %}
   {% assign post = site.documents | where: "path", filename | first %}
