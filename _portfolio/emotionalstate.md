@@ -22,5 +22,3 @@ abstract: "We estimate the effect of social media deactivation on users’ emoti
 [fies]: https://research.facebook.com/2020-election-research/
 
 [emotionalstate-nberwp]:{{ site.baseurl }}{% link files/EmotionalStateNBER.pdf %}
-[emotionalstate-pub]:{{ site.baseurl }}{% link files/EmotionalState.pdf %}
-
