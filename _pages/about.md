@@ -15,7 +15,7 @@ I am a first-year PhD student in Economics at the University of Michigan. My [re
 
 I previously served as a predoctoral research fellow at the [Stanford Institute for Economic Policy Research][Stanford Institute for Economic Policy Research] (SIEPR) with Professor [Matthew Gentzkow][Matthew Gentzkow], and as a full-time research assistant at the [Brown University School of Public Health][Brown University School of Public Health Incubator Lab] with Dean [Ashish Jha][Ashish Jha]. I earned my BA at the University of Southern California, where I studied Economics and Political Science.
 
-*Click below to access my Michigan Economics and personal websites.*
+*Click below to access my Michigan Economics website.*
 
 <style>
   .custom-link {
@@ -34,8 +34,6 @@ I previously served as a predoctoral research fellow at the [Stanford Institute 
 
 <a href="https://lsa.umich.edu/econ/people/phd-students/nairdesa.html"  target="_blank" class="custom-link">
     **Michigan Economics**
-</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sameernairdesai.wordpress.com/"  target="_blank" class="custom-link">
-    **Personal Website**
 </a>
 
 [research agenda]: https://snairdesai.github.io/research/
