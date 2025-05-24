@@ -48,5 +48,5 @@ Check out my latest working papers from the Facebook and Instagram Election Stud
 [Brown University School of Public Health Incubator Lab]: https://dean.sph.brown.edu/incubator-lab
 [Ashish Jha]: https://dean.sph.brown.edu/dean
 [CV]:{{ site.baseurl }}{% link files/SND_Academic_CV_2025.pdf %}
-[The Effects of Political Advertising on Facebook and Instagram before the 2020 US Election]: https://www.nber.org/papers/w33818
+[The Effects of Political Advertising on Facebook and Instagram]: https://www.nber.org/papers/w33818
 [The Effect of Deactivating Facebook and Instagram on Users' Emotional State]: https://www.nber.org/papers/w33697
