@@ -21,4 +21,4 @@ abstract: "We study the effects of social media political advertising by randomi
 [rlevy]: https://www.roeelevy.com/
 [fies]: https://research.facebook.com/2020-election-research/
 
-[emotionalstate-nberwp]:{{ site.baseurl }}{% link files/AdsExperimentalNBER.pdf %}
+[adsexp-nberwp]:{{ site.baseurl }}{% link files/AdsExperimentalNBER.pdf %}

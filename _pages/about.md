@@ -17,7 +17,7 @@ I previously served as a predoctoral research fellow at the [Stanford Institute 
 
 Check out my latest working papers from the Facebook and Instagram Election Studies project:
 
-1. [The Effects of Political Advertising on Facebook and Instagram before the 2020 US Election][The Effects of Political Advertising on Facebook and Instagram before the 2020 US Election]
+1. [The Effects of Political Advertising on Facebook and Instagram][The Effects of Political Advertising on Facebook and Instagram]
 
 2. [The Effect of Deactivating Facebook and Instagram on Users' Emotional State][The Effect of Deactivating Facebook and Instagram on Users' Emotional State]
 
