@@ -16,7 +16,6 @@ I am a first-year PhD student in Economics at the University of Michigan. My [re
 I previously served as a predoctoral research fellow at the [Stanford Institute for Economic Policy Research][Stanford Institute for Economic Policy Research] (SIEPR) with Professor [Matthew Gentzkow][Matthew Gentzkow], and as a full-time research assistant at the [Brown University School of Public Health][Brown University School of Public Health Incubator Lab] with Dean [Ashish Jha][Ashish Jha]. I earned my BA at the University of Southern California, where I studied Economics and Political Science.
 
 Check out my latest working papers from the Facebook and Instagram Election Studies project:
-
 - [The Effects of Political Advertising on Facebook and Instagram][The Effects of Political Advertising on Facebook and Instagram]
 - [The Effect of Deactivating Facebook and Instagram on Users' Emotional State][The Effect of Deactivating Facebook and Instagram on Users' Emotional State]
 - [The Effects of Facebook and Instagram on the 2020 Election: A Deactivation Experiment][The Effects of Facebook and Instagram on the 2020 Election: A Deactivation Experiment]
