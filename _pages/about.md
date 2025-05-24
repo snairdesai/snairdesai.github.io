@@ -17,9 +17,10 @@ I previously served as a predoctoral research fellow at the [Stanford Institute 
 
 Check out my latest working papers from the Facebook and Instagram Election Studies project:
 
-1. [The Effects of Political Advertising on Facebook and Instagram][The Effects of Political Advertising on Facebook and Instagram]
+- [The Effects of Political Advertising on Facebook and Instagram][The Effects of Political Advertising on Facebook and Instagram]
+- [The Effect of Deactivating Facebook and Instagram on Users' Emotional State][The Effect of Deactivating Facebook and Instagram on Users' Emotional State]
+- [The Effects of Facebook and Instagram on the 2020 Election: A Deactivation Experiment][The Effects of Facebook and Instagram on the 2020 Election: A Deactivation Experiment]
 
-2. [The Effect of Deactivating Facebook and Instagram on Users' Emotional State][The Effect of Deactivating Facebook and Instagram on Users' Emotional State]
 
 *Click below to access my Michigan Economics website.*
 
@@ -50,3 +51,4 @@ Check out my latest working papers from the Facebook and Instagram Election Stud
 [CV]:{{ site.baseurl }}{% link files/SND_Academic_CV_2025.pdf %}
 [The Effects of Political Advertising on Facebook and Instagram]: https://www.nber.org/papers/w33818
 [The Effect of Deactivating Facebook and Instagram on Users' Emotional State]: https://www.nber.org/papers/w33697
+[The Effects of Facebook and Instagram on the 2020 Election: A Deactivation Experiment]: https://www.pnas.org/doi/10.1073/pnas.2321584121
