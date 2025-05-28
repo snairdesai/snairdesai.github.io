@@ -13,7 +13,7 @@ redirect_from:
 
 I am a first-year PhD student in Economics at the University of Michigan. My [research agenda][research agenda] focuses on topics at the intersection of development, health, and political economics.
 
-I previously served as a predoctoral research fellow at the [Stanford Institute for Economic Policy Research][Stanford Institute for Economic Policy Research] (SIEPR) with Professor [Matthew Gentzkow][Matthew Gentzkow], and as a full-time research assistant at the [Brown University School of Public Health][Brown University School of Public Health Incubator Lab] with Dean [Ashish Jha][Ashish Jha]. I earned my BA at the University of Southern California, where I studied Economics and Political Science.
+I previously served as a predoctoral research fellow at the Stanford Institute for Economic Policy Research (SIEPR) with Professor [Matthew Gentzkow][Matthew Gentzkow], and as a full-time research assistant at the Brown University School of Public Health with Dean [Ashish Jha][Ashish Jha]. I earned my BA at the University of Southern California, where I studied Economics and Political Science.
 
 Check out our latest working papers from the Facebook and Instagram Election Studies:
 - [The Effects of Political Advertising on Facebook and Instagram][The Effects of Political Advertising on Facebook and Instagram]
@@ -43,9 +43,7 @@ Check out our latest working papers from the Facebook and Instagram Election Stu
 </a>
 
 [research agenda]: https://snairdesai.github.io/research/
-[Stanford Institute for Economic Policy Research]: https://siepr.stanford.edu/people/predoctoral-research-fellows
 [Matthew Gentzkow]: https://www.matthewgentzkow.com/bio/
-[Brown University School of Public Health Incubator Lab]: https://dean.sph.brown.edu/incubator-lab
 [Ashish Jha]: https://dean.sph.brown.edu/dean
 [CV]:{{ site.baseurl }}{% link files/SND_Academic_CV_2025.pdf %}
 [The Effects of Political Advertising on Facebook and Instagram]: https://www.nber.org/papers/w33818
