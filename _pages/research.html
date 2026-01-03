@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<h1 style="text-align: center; font-style: italic;">Economics Publications</h1>
+<h1 style="text-align: center; font-style: italic;">Health Economics and Health Policy</h1>
 
-{% assign econ_files = "adsexp.md, emotionalstate.md, deactivation.md, covidmortalitygaps.md, covidshocks.md, coviddiffusion.md" | split: ", " %}
+{% assign econ_files = "covidmortalitygaps.md, covidshocks.md, coviddiffusion.md, cjdepi.md, lci.md, ascpe.md, surgqual.md" | split: ", " %}
 {% for file in econ_files %}
   {% assign filename = file | prepend: "_portfolio/" %}
   {% assign post = site.documents | where: "path", filename | first %}
@@ -18,9 +18,9 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h1 style="text-align: center; font-style: italic;">Health Policy Publications</h1>
+<h1 style="text-align: center; font-style: italic;">Digital and Media Economics</h1>
 
-{% assign health_files = "cjdepi.md, lci.md, ascpe.md, surgqual.md" | split: ", " %}
+{% assign health_files = "adsexp.md, emotionalstate.md, deactivation.md" | split: ", " %}
 {% for file in health_files %}
   {% assign filename = file | prepend: "_portfolio/" %}
   {% assign post = site.documents | where: "path", filename | first %}
