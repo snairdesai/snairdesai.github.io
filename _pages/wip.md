@@ -1,5 +1,5 @@
 ---
-title: "Work in Progress"
+title: ""
 permalink: /workinprogress/
 author_profile: true
 ---
