@@ -6,46 +6,82 @@ author_profile: true
 
 Working Papers
 
--------
+------
 
 [**The Effect of Deactivating Facebook and Instagram on Users' Emotional State**](/files/EmotionalStateNBER.pdf){:target="_blank"} \
 <span style="font-size:.9em;">**AEJ: Economic Policy (*Forthcoming*)**; Working Version: *[NBER Working Paper #33697](https://www.nber.org/papers/w33697){:target="_blank"} (April 2025)*</span> \
 <span style="font-size:.9em;">with [Hunt Allcott](https://allcott.stanford.edu/){:target="_blank"}, [Matthew Gentzkow](https://www.matthewgentzkow.com/){:target="_blank"}, [Benjamin Wittenbrink](https://benjaminhwittenbrink.github.io/){:target="_blank"}, et al.</span>
 
 > *We estimate the effect of social media deactivation on users’ emotional state in two large randomized experiments before the 2020 U.S. election. People who deactivated Facebook for the six weeks before the election reported a 0.060 standard deviation improvement in an index of happiness, depression, and anxiety, relative to controls who deactivated for just the first of those six weeks. People who deactivated Instagram for those six weeks reported a 0.041 standard deviation improvement relative to controls. Exploratory analysis suggests the Facebook effect is driven by people over 35, while the Instagram effect is driven by women under 25.*
-{: style="font-size:0.75em; border-left:4px solid #8C1515; padding-left:1em;" }
+{: style="font-size:0.8em; border-left:4px solid #8C1515; padding-left:1em;" }
 
-<!-- {% include base_path %}
+[**The Effects of Political Advertising on Facebook and Instagram Before the 2020 US Election**](/files/AdsExperimentalNBER.pdf){:target="_blank"} \
+<span style="font-size:.9em;">**Nature Human Behavior (*Accepted*)**; Working Version: *[NBER Working Paper #33818](https://www.nber.org/papers/w33818){:target="_blank"} (April 2025)*</span> \
+<span style="font-size:.9em;">with [Hunt Allcott](https://allcott.stanford.edu/){:target="_blank"}, [Matthew Gentzkow](https://www.matthewgentzkow.com/){:target="_blank"}, [Ro'ee Levy](https://www.roeelevy.com/){:target="_blank"}, et al.</span>
 
-<h2 style="text-align: center; font-style: italic;">Working Papers</h1>
+> *We study the effects of social media political advertising by randomizing subsets of 36,906 Facebook users and 25,925 Instagram users to have political ads removed from their news feeds for six weeks before the 2020 US presidential election. We show that most presidential ads were targeted toward parties’ own supporters and that fundraising ads were most common. On both Facebook and Instagram, we found no detectable effects of removing political ads on political knowledge, polarization, perceived legitimacy of the election, political participation (including campaign contributions), candidate favorability, and turnout. This was true overall and for both Democrats and Republicans separately.*
+{: style="font-size:0.8em; border-left:4px solid #8C1515; padding-left:1em;" }
 
-{% assign working_papers = "emotionalstate.md, adsexp.md" | split: ", " %}
-{% for file in working_papers %}
-  {% assign filename = file | prepend: "_portfolio/" %}
-  {% assign post = site.documents | where: "path", filename | first %}
-  {% if post %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+Published Papers in Economics
 
-<h2 style="text-align: center; font-style: italic;">Published Papers in Economics</h1>
+------
 
-{% assign published_econ_papers = "deactivation.md, covidmortalitygaps.md, covidshocks.md, coviddiffusion.md" | split: ", " %}
-{% for file in published_econ_papers %}
-  {% assign filename = file | prepend: "_portfolio/" %}
-  {% assign post = site.documents | where: "path", filename | first %}
-  {% if post %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+[**The Effects of Facebook and Instagram on the 2020 Election: A Deactivation Experiment**](/files/Deactivation.pdf){:target="_blank"} \
+<span style="font-size:.9em;">**Proceedings of the National Academy of Sciences (May 2024)**</span> \
+<span style="font-size:.9em;">with [Hunt Allcott](https://allcott.stanford.edu/){:target="_blank"}, [Matthew Gentzkow](https://www.matthewgentzkow.com/){:target="_blank"}, et al.</span>
 
-<h2 style="text-align: center; font-style: italic;">Published Papers in Health Policy</h1>
+> *We study the effect of Facebook and Instagram access on political beliefs, attitudes, and behavior by randomizing a subset of 19,857 Facebook users and 15,585 Instagram users to deactivate their accounts for 6 wk before the 2020 U.S. election. We report four key findings. First, both Facebook and Instagram deactivation reduced an index of political participation (driven mainly by reduced participation online). Second, Facebook deactivation had no significant effect on an index of knowledge, but secondary analyses suggest that it reduced knowledge of general news while possibly also decreasing belief in misinformation circulating online. Third, Facebook deactivation may have reduced self-reported net votes for Trump, though this effect does not meet our preregistered significance threshold. Finally, the effects of both Facebook and Instagram deactivation on affective and issue polarization, perceived legitimacy of the election, candidate favorability, and voter turnout were all precisely estimated and close to zero.*
+{: style="font-size:0.8em; border-left:4px solid #8C1515; padding-left:1em;" }
 
-{% assign published_hp_papers = "cjdepi.md, lci.md, ascpe.md, surgqual.md" | split: ", " %}
-{% for file in published_hp_papers %}
-  {% assign filename = file | prepend: "_portfolio/" %}
-  {% assign post = site.documents | where: "path", filename | first %}
-  {% if post %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %} -->
+[**Gaps Between Official and Excess COVID-19 Mortality Measures**](/files/COVIDMortGaps.pdf){:target="_blank"} \
+<span style="font-size:.9em;">**Economic Modelling (Aug. 2022)**; Previous Version: *[NBER Working Paper #29778](https://www.nber.org/papers/w29778){:target="_blank"} (Feb. 2022)*</span> \
+<span style="font-size:.9em;">with [Joshua Aizenman](https://sites.google.com/site/aizenmanpage/){:target="_blank"}, [Alex Cukierman](https://www.alexcuk.sites.tau.ac.il/){:target="_blank"}, [Yothin Jinjarak](https://www.pier.or.th/en/members/yothin-jinjarak/){:target="_blank"}, and [Weining Xin](http://weiningxin.weebly.com/){:target="_blank"},</span>
+
+> *We evaluate quartile rankings of countries during the COVID-19 pandemic using both official (confirmed) and excess mortality data. By December 2021, the quartile rankings of three-fifths of the countries differ when ranked by excess vs. official mortality. Countries that were "doing substantially better" in the excess mortality measure were characterized by higher urban population shares; higher GDP per capita; and higher scores on institutional and policy variables. In a narrow model, after controlling for GDP per capita and vaccination rates, we find that the Excess / Official mortality ratio was smaller in countries with higher vaccination rates. In a broader model, after adding institutional and policy variables, the Excess / Official mortality ratio was smaller in countries with a higher institutional measure of voice and accountability.*
+{: style="font-size:0.8em; border-left:4px solid #8C1515; padding-left:1em;" }
+
+[**Pandemic Shocks and Fiscal-Monetary Policies in the Eurozone: COVID-19 Dominance During January – June 2020**](/files/COVIDFinanceShocks.pdf){:target="_blank"} \
+<span style="font-size:.9em;">**Oxford Economic Papers (Mar. 2021)**; Previous Version: *[NBER Working Paper #27451](https://www.nber.org/papers/w27451){:target="_blank"} (June 2020)*</span> \
+<span style="font-size:.9em;">with [Joshua Aizenman](https://sites.google.com/site/aizenmanpage/){:target="_blank"}, [Yothin Jinjarak](https://www.pier.or.th/en/members/yothin-jinjarak/){:target="_blank"}, [Rashad Ahmed](https://sites.google.com/view/rashad-ahmed){:target="_blank"}, and [Weining Xin](http://weiningxin.weebly.com/){:target="_blank"},</span>
+
+> *We compare the importance of market factors against that of COVID-19 dynamics and policy responses in explaining Eurozone sovereign spreads. First, we estimate a multifactor model for changes in credit default swap (CDS) spreads over 2014 to June 2019. Then, we apply a synthetic control-type procedure to extrapolate model-implied changes in CDS. The factor model does very well over the rest of 2019 but breaks down during the pandemic, especially in March of 2020. We find that the March 2020 divergence is well accounted for by COVID-specific risks and associated policies, mortality outcomes, and policy announcements, rather than traditional determinants. Daily CDS widening ceased almost immediately after the European Central Bank announced the Pandemic Emergency Purchase Programme, but the divergence between actual and model-implied changes persisted. This points to COVID-19 Dominance — widening spreads during the pandemic leading to unconventional monetary policies that primarily aim to mitigate short-run fears, temporarily pushing away concerns over fiscal risk.*
+{: style="font-size:0.8em; border-left:4px solid #8C1515; padding-left:1em;" }
+
+[**Accounting for Global COVID-19 Diffusion Patterns, January - April 2020**](/files/COVIDFinanceShocks.pdf){:target="_blank"} \
+<span style="font-size:.9em;">**Economics of Disasters and Climate Change (Sep. 2020)**; Previous Version: *[NBER Working Paper #27185](https://www.nber.org/papers/w27185){:target="_blank"} (June 2020)*</span> \
+<span style="font-size:.9em;">with [Joshua Aizenman](https://sites.google.com/site/aizenmanpage/){:target="_blank"}, [Yothin Jinjarak](https://www.pier.or.th/en/members/yothin-jinjarak/){:target="_blank"}, [Rashad Ahmed](https://sites.google.com/view/rashad-ahmed){:target="_blank"}, and [Weining Xin](http://weiningxin.weebly.com/){:target="_blank"},</span>
+
+> *We trace the cross-country associations between COVID-19 mortality, policy interventions aimed at limiting social contact, and their interactions with institutional and demographic characteristics. With a lag, more stringent pandemic policies were associated with lower mortality growth rates. The association between stricter pandemic policies and lower future mortality growth is more pronounced in countries with a greater proportion of the elderly and urban population, greater democratic freedoms, and larger international travel flows. Countries with greater policy stringency in place prior to the first death realized lower peak mortality rates and exhibited lower durations to the first mortality peak. In contrast, countries with higher initial mobility saw higher peak mortality rates in the first phase of the pandemic, and countries with a larger elderly population, a greater share of employees in vulnerable occupations, and a higher level of democracy took longer to reach their peak mortalities.*
+{: style="font-size:0.8em; border-left:4px solid #8C1515; padding-left:1em;" }
+
+Published Papers in Health Policy
+
+------
+
+[**Change in Epidemiology of Creutzfeldt-Jakob Disease in the US, 2007-2020**](/files/CJDEpi.pdf){:target="_blank"} \
+<span style="font-size:.9em;">**JAMA Neurology (Dec. 2023)**</span> \
+<span style="font-size:.9em;">with [Matthew Crane](https://healthpolicy.usc.edu/author/matthew-a-crane/){:target="_blank"}, [John Romley](https://priceschool.usc.edu/people/john-a-romley/){:target="_blank"}, [Alison Gemmill](https://publichealth.jhu.edu/faculty/3843/alison-gemmill){:target="_blank"}, and [John Probasco](https://pure.johnshopkins.edu/en/persons/john-probasco){:target="_blank"},</span>
+
+> *Creutzfeldt–Jakob disease (CJD) is a rapidly progressive and universally fatal prion disease. Prior research on CJD in the U.S. demonstrated a stable incidence rate from 1979 - 2006, though recent trends are not as well described. The incidence of sporadic CJD (sCJD), the most common type of CJD, is higher among older patients. Due to demographic trends worldwide towards aging populations, the epidemiology of CJD is evolving. We examined death certificate data from 2007 - 2020 to better understand recent trends of CJD in the U.S. We find evidence of large increases in CJD prevelance, mostly concentrated amongst the elderly and female U.S. population.*
+{: style="font-size:0.8em; border-left:4px solid #8C1515; padding-left:1em;" }
+
+[**Characteristics Associated with High Hospital Spending Over 1 Year Among Patients Hospitalised for COVID-19 in the USA: A Cohort Study**](/files/LCI.pdf){:target="_blank"} \
+<span style="font-size:.9em;">**BMJ Public Health (Nov. 2023)**</span> \
+<span style="font-size:.9em;">with [Laura Chambers](https://vivo.brown.edu/display/lchambe1){:target="_blank"}, [Mark Soto](https://www.linkedin.com/in/markjsoto/){:target="_blank"}, [Thomas Tsai](https://www.hsph.harvard.edu/profile/thomas-c-tsai/){:target="_blank"}, et al.,</span>
+
+> *Despite complex care needs during critical COVID-19, the associated long-term healthcare spending is poorly understood, limiting the ability of policy-makers to prioritise necessary care and plan for future medical countermeasures. We conducted a retrospective cohort study of adults hospitalised with COVID-19 in the USA (April ‒ June 2020) using data from the national PINC AI Healthcare Database. Patients were followed for 365 days to measure hospital spending starting on the date of admission. We used a multivariable logistic model to identify characteristics associated with high spending. Among 73,606 patients hospitalised with COVID-19, 73% were aged ≥50 years, 51% were female, and 37% were non-Hispanic white. Mean hospital spending per patient over 90 days was USD: 28,712 and over 365 days was USD: 31,768. Patients who received care in the intensive care unit, received a non-recommended COVID-19 treatment, had a longer length of stay, and had Medicare or Medicaid insurance were associated with a higher predicted probability of high hospital spending over 365 days. Patients who received recommended treatment and were Hispanic and any race, ‘other’ or unknown race and ethnicity, or female were associated with a lower predicted probability of high hospital spending. Most hospital spending incurred over 1 year was for care within 90 days of admission. Patients receiving complex care or non-recommended treatments were associated with higher spending, while those receiving recommended treatments were associated with lower spending. These findings can inform pandemic preparedness planning.*
+{: style="font-size:0.8em; border-left:4px solid #8C1515; padding-left:1em;" }
+
+[**Private Equity Acquisitions Of Ambulatory Surgical Centers Were Not Associated With Quality, Cost, Or Volume Changes**](/files/ASCPE.pdf){:target="_blank"} \
+<span style="font-size:.9em;">**Health Affairs (Sep. 2022)**</span> \
+<span style="font-size:.9em;">with [Joseph Bruch](https://pbhs.uchicago.edu/faculty/joseph-dov-bruch-phd){:target="_blank"}, [Thomas Tsai](https://www.hsph.harvard.edu/profile/thomas-c-tsai/){:target="_blank"}, and [John Orav](https://www.hsph.harvard.edu/profile/e-john-orav/){:target="_blank"},</span>
+
+> *Ambulatory surgical centers (ASCs) are increasingly being acquired by private equity firms, yet the implications for patients remain understudied. In this study we employed a quasi-experimental difference-in-differences design within an event study framework to assess changes in outcomes associated with the acquisition of ASCs by private equity entities. Using a two-way fixed effects model, we assessed the baseline probability of an unplanned hospital visit, total costs, and total encounters three years preacquisition compared with three years postacquisition in ASCs acquired by private equity versus those acquired by non–private equity entities. We identified ninety-one ASCs acquired by private equity and fifty-seven ASCs acquired by non–private equity entities during the period 2011–14. There was no statistically significant observed change in the probability of an unplanned hospital visit, total costs, or total encounters after acquisition by private equity relative to acquisition by non–private equity entities. When we compared private equity–acquired ASCs with matched ASCs that were never acquired, we also found no statistically significant relative change in the probability of an unplanned hospital visit, total costs, or total encounters. Regulators should ensure that data on private equity acquisitions are transparent and that data are available to track the long-term quality and financial implications of these acquisitions.*
+{: style="font-size:0.8em; border-left:4px solid #8C1515; padding-left:1em;" }
+
+[**The Need for a Better-Quality Reporting System for Ambulatory and Outpatient Surgery — Surgical Quality Without Walls**](/files/QRSSurgery.pdf){:target="_blank"} \
+<span style="font-size:.9em;">**JAMA Surgery (Jun. 2022)**</span> \
+<span style="font-size:.9em;">with [Ava Ferguson Bryan](https://www.commonwealthfund.org/person/ava-ferguson-bryan){:target="_blank"} and [Thomas Tsai](https://www.hsph.harvard.edu/profile/thomas-c-tsai/){:target="_blank"},</span>
+
+> *One of the most important consequences of the COVID-19 pandemic on health care delivery in the U.S. is the acceleration of a long-building shift from inpatient to outpatient delivery of operative care. Before the pandemic, enhanced recovery pathways and minimally invasive techniques opened the possibility of performing increasingly complex operations in hospital outpatient departments and ambulatory surgical centers. To create inpatient surge capacity during the pandemic, emergency waivers expanded the care that outpatient surgical centers could provide, rendering them increasingly important sites of care delivery for both the present need for inpatient capacity as well as the future of value-based care. In this article, we analyze this shifting trend and provide policy recommendations for federal health agencies.*
+{: style="font-size:0.8em; border-left:4px solid #8C1515; padding-left:1em;" }
