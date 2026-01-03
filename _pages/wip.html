@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign custom_files = "digitalindia.md, undochealth.md, cinsocial.md, crimhealth.md, gened.md" | split: ", " %}
+{% assign custom_files = "digitalindia.md, cinsocial.md, undochealth.md, crimhealth.md, gened.md" | split: ", " %}
 
 {% for file in custom_files %}
   {% assign filename = file | prepend: "_publications/" %}

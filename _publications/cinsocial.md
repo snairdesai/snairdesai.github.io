@@ -12,6 +12,6 @@ venue: 'Work in Progress'
 [jccp]: https://jccisneros.com/
 [mck]: https://www.linkedin.com/in/marie-kaul-a557ab166/
 
-**Assets:** [ [Pitchdeck][cin-social] ]
+<!-- **Assets:** [ [Pitchdeck][cin-social] ] -->
 
-[cin-social]:{{ site.baseurl }}{% link files/CinSocial.pdf %}
+<!-- [cin-social]:{{ site.baseurl }}{% link files/CinSocial.pdf %} -->
