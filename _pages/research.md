@@ -7,7 +7,6 @@ author_profile: true
 ## Working Papers
 <div style="border-top:2px solid #000000; margin:0.4rem 0 0.6rem 0;"></div>
 
-
 <span style="font-size:0.95em;">[**The Effect of Deactivating Facebook and Instagram on Users' Emotional State**](/files/EmotionalStateNBER.pdf){:target="_blank"} </span> \
 <span style="font-size:0.8em;">**AEJ: Economic Policy (*Forthcoming*)**; Working Version: *[NBER WP #33697](https://www.nber.org/papers/w33697){:target="_blank"} (Apr. 2025)*</span> \
 <span style="font-size:0.8em;">with [Hunt Allcott](https://allcott.stanford.edu/){:target="_blank"}, [Matthew Gentzkow](https://www.matthewgentzkow.com/){:target="_blank"}, [Benjamin Wittenbrink](https://benjaminhwittenbrink.github.io/){:target="_blank"}, et al.</span>
