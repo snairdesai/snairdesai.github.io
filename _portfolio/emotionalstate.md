@@ -7,7 +7,7 @@ abstract: "We estimate the effect of social media deactivation on users’ emoti
 
 ---
 
-**Journal:** _AEJ: Economic Policy (Conditionally Accepted)_
+**Journal:** _AEJ: Economic Policy (Forthcoming)_
 <br>
 **Coauthors:** [Hunt Allcott][hallcott], [Matthew Gentzkow][mgentzkow], [Benjamin Wittenbrink][bwitten], et al.
 <br>
