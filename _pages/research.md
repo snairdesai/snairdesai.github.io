@@ -9,10 +9,11 @@ Working Papers
 -------
 
 [**The Effect of Deactivating Facebook and Instagram on Users' Emotional State**](/files/EmotionalStateNBER.pdf){:target="_blank"} \
-<span style="font-size:.9em;">**AEJ: Economic Policy (*Forthcoming*)**; Working Version: *[NBER Working Paper 33697](https://www.nber.org/papers/w33697){:target="_blank"} (April 2025)*</span> \
+<span style="font-size:.9em;">**AEJ: Economic Policy (*Forthcoming*)**; Working Version: *[NBER Working Paper #33697](https://www.nber.org/papers/w33697){:target="_blank"} (April 2025)*</span> \
 <span style="font-size:.9em;">with [Hunt Allcott](https://allcott.stanford.edu/){:target="_blank"}, [Matthew Gentzkow](https://www.matthewgentzkow.com/){:target="_blank"}, [Benjamin Wittenbrink](https://benjaminhwittenbrink.github.io/){:target="_blank"}, et al.</span>
 
-<span style="font-size:.9em;">*We estimate the effect of social media deactivation on users’ emotional state in two large randomized experiments before the 2020 U.S. election. People who deactivated Facebook for the six weeks before the election reported a 0.060 standard deviation improvement in an index of happiness, depression, and anxiety, relative to controls who deactivated for just the first of those six weeks. People who deactivated Instagram for those six weeks reported a 0.041 standard deviation improvement relative to controls. Exploratory analysis suggests the Facebook effect is driven by people over 35, while the Instagram effect is driven by women under 25.*</span>
+> *We estimate the effect of social media deactivation on users’ emotional state in two large randomized experiments before the 2020 U.S. election. People who deactivated Facebook for the six weeks before the election reported a 0.060 standard deviation improvement in an index of happiness, depression, and anxiety, relative to controls who deactivated for just the first of those six weeks. People who deactivated Instagram for those six weeks reported a 0.041 standard deviation improvement relative to controls. Exploratory analysis suggests the Facebook effect is driven by people over 35, while the Instagram effect is driven by women under 25.*
+{: style="font-size:0.75em; border-left:4px solid #8C1515; padding-left:1em;" }
 
 <!-- {% include base_path %}
 
