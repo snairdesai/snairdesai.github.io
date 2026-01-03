@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-<h1 style="text-align: center; font-style: italic;">Health Economics and Health Policy</h1>
+<h1 style="text-align: center; font-style: italic;">Working Papers</h1>
 
-{% assign econ_files = "covidmortalitygaps.md, covidshocks.md, coviddiffusion.md, cjdepi.md, lci.md, ascpe.md, surgqual.md" | split: ", " %}
-{% for file in econ_files %}
+{% assign working_papers = "adsexp.md, emotionalstate.md" | split: ", " %}
+{% for file in working_papers %}
   {% assign filename = file | prepend: "_portfolio/" %}
   {% assign post = site.documents | where: "path", filename | first %}
   {% if post %}
@@ -18,10 +18,21 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h1 style="text-align: center; font-style: italic;">Digital and Media Economics</h1>
+<h1 style="text-align: center; font-style: italic;">Published Papers in Economics</h1>
 
-{% assign health_files = "adsexp.md, emotionalstate.md, deactivation.md" | split: ", " %}
-{% for file in health_files %}
+{% assign published_econ_papers = "deactivation.md, covidmortalitygaps.md, covidshocks.md, coviddiffusion.md" | split: ", " %}
+{% for file in published_econ_papers %}
+  {% assign filename = file | prepend: "_portfolio/" %}
+  {% assign post = site.documents | where: "path", filename | first %}
+  {% if post %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h1 style="text-align: center; font-style: italic;">Published Papers in Health Policy</h1>
+
+{% assign published_hp_papers = "cjdepi.md, lci.md, ascpe.md, surgqual.md" | split: ", " %}
+{% for file in published_hp_papers %}
   {% assign filename = file | prepend: "_portfolio/" %}
   {% assign post = site.documents | where: "path", filename | first %}
   {% if post %}
