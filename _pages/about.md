@@ -11,7 +11,7 @@ redirect_from:
 
 <br>
 
-I am a second-year PhD student in Economics at the University of Michigan and a Graduate Fellow in the Demography Training Program at the [Population Studies Center][Population Studies Center]. My research agenda focuses on topics at the intersection of development, health, and political economics.
+I am a PhD student in Economics at the University of Michigan and a Graduate Fellow in the Demography Training Program at the [Population Studies Center][Population Studies Center]. My research agenda focuses on topics at the intersection of development, health, and political economics.
 
 I previously served as a predoctoral research fellow at the Stanford Institute for Economic Policy Research (SIEPR) with Professor [Matthew Gentzkow][Matthew Gentzkow], and as a full-time research assistant at the Brown University School of Public Health with Dean [Ashish Jha][Ashish Jha]. I earned my BA at the University of Southern California, where I studied Economics and Political Science.
 
