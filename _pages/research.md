@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+## Accepted and Forthcoming Papers
 <div style="border-top:2px solid #000000; margin:0.4rem 0 0.6rem 0;"></div>
 
 <span style="font-size:0.95em;">[**The Effect of Deactivating Facebook and Instagram on Users' Emotional State**](/files/EmotionalStateNBER.pdf){:target="_blank"} </span> \
@@ -13,14 +13,14 @@ author_profile: true
 > *We estimate the effect of social media deactivation on users’ emotional state in two large randomized experiments before the 2020 U.S. election. People who deactivated Facebook for the six weeks before the election reported a 0.060 standard deviation improvement in an index of happiness, depression, and anxiety, relative to controls who deactivated for just the first of those six weeks. People who deactivated Instagram for those six weeks reported a 0.041 standard deviation improvement relative to controls. Exploratory analysis suggests the Facebook effect is driven by people over 35, while the Instagram effect is driven by women under 25.*
 {: style="font-size:0.75em; border-left:4px solid #8C1515; padding-left:0.8em;" }
 
-<span style="font-size:0.95em;">[**The Effects of Political Advertising on Facebook and Instagram Before the 2020 US Election**](/files/AdsExperimentalNBER.pdf){:target="_blank"} </span> \
+## Published Papers in Economics
+<div style="border-top:2px solid #000000; margin:0.4rem 0 0.6rem 0;"></div>
+
+<span style="font-size:0.95em;">[**The Effects of Political Advertising on Facebook and Instagram Before the 2020 US Election**](/files/AdsExp.pdf){:target="_blank"} </span> \
 <span style="font-size:0.8em;">**Nature Human Behavior (*Accepted*)**; Working Version: *[NBER WP #33818](https://www.nber.org/papers/w33818){:target="_blank"} (Apr. 2025)*</span> \
 <span style="font-size:0.8em;">with [Hunt Allcott](https://allcott.stanford.edu/){:target="_blank"}, [Matthew Gentzkow](https://www.matthewgentzkow.com/){:target="_blank"}, [Ro'ee Levy](https://www.roeelevy.com/){:target="_blank"}, et al.</span>
 > *We study the effects of social media political advertising by randomizing subsets of 36,906 Facebook users and 25,925 Instagram users to have political ads removed from their news feeds for six weeks before the 2020 US presidential election. We show that most presidential ads were targeted toward parties’ own supporters and that fundraising ads were most common. On both Facebook and Instagram, we found no detectable effects of removing political ads on political knowledge, polarization, perceived legitimacy of the election, political participation (including campaign contributions), candidate favorability, and turnout. This was true overall and for both Democrats and Republicans separately.*
 {: style="font-size:0.75em; border-left:4px solid #8C1515; padding-left:0.8em;" }
-
-## Published Papers in Economics
-<div style="border-top:2px solid #000000; margin:0.4rem 0 0.6rem 0;"></div>
 
 <span style="font-size:0.95em;">[**The Effects of Facebook and Instagram on the 2020 Election: A Deactivation Experiment**](/files/Deactivation.pdf){:target="_blank"} </span> \
 <span style="font-size:0.8em;">**Proceedings of the National Academy of Sciences (May 2024)**</span> \
