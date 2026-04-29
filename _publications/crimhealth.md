@@ -1,5 +1,5 @@
 ---
-title: "The Role of Continuous Medicaid Coverage in Reducing Recidivism and Drug Use Among Former Juvenile Inmates"
+title: "The Role of Continuous Medicaid Coverage in Reducing Recidivism and Drug Use"
 collection: publications
 date: 2023-01-01
 venue: 'Work in Progress'
