@@ -8,7 +8,7 @@ author_profile: true
 <div style="border-top:2px solid #000000; margin:0.4rem 0 0.6rem 0;"></div>
 
 <span style="font-size:0.95em;">**The Effects of the Green Revolution on Long-Run Development: Evidence from India** </span> \
-<span style="font-size:0.8em;">with [Joaquin Endara](https://jendara.com/), [Eduardo Montero](https://www.eduardo-montero.com/), [Sebastian Sotelo](https://websites.umich.edu/~ssotelo/), and [Dean Yang](https://deanyang-econ.github.io/deanyang/).{:target="_blank"}
+<span style="font-size:0.8em;">with [Joaquin Endara](https://jendara.com/), [Eduardo Montero](https://www.eduardo-montero.com/), [Sebastian Sotelo](https://websites.umich.edu/~ssotelo/), and [Dean Yang](https://deanyang-econ.github.io/deanyang/){:target="_blank"}
 
 <span style="font-size:0.95em;">**Networks and Norms: Evidence from India’s Digital Expansion** </span> \
 <span style="font-size:0.8em;">with [Juan Carlos Cisneros](https://jccisneros.com/){:target="_blank"}
