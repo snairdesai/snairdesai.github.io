@@ -16,6 +16,14 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
+# Ruby 3.4+/4.0 dropped these from the default gems; Jekyll 3.9 needs them for
+# local builds/serving. Harmless for GitHub Pages (it builds in its own env).
+gem "csv"
+gem "webrick"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!

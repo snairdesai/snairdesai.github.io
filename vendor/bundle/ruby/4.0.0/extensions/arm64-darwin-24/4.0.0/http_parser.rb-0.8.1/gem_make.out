@@ -1,0 +1,23 @@
+current directory: /Users/sameernair-desai/Desktop/IndRes/Workflow/snairdesai.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/sameernair-desai/Desktop/IndRes/Workflow/snairdesai.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260604-22365-3etcdm sitelibdir\=./.gem.20260604-22365-3etcdm clean
+
+current directory: /Users/sameernair-desai/Desktop/IndRes/Workflow/snairdesai.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260604-22365-3etcdm sitelibdir\=./.gem.20260604-22365-3etcdm
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+ruby_http_parser.c:373:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+    if (nparsed < len)
+        ~~~~~~~ ^ ~~~
+1 warning generated.
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/sameernair-desai/Desktop/IndRes/Workflow/snairdesai.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260604-22365-3etcdm sitelibdir\=./.gem.20260604-22365-3etcdm install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20260604-22365-3etcdm
+
+current directory: /Users/sameernair-desai/Desktop/IndRes/Workflow/snairdesai.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260604-22365-3etcdm sitelibdir\=./.gem.20260604-22365-3etcdm clean

@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "CV"
-    url: /files/SND_Academic_CV_2025.pdf
-    
+  - title: "Home"
+    url: /
+
   - title: "Research"
     url: /research/
 
-  - title: "Work in Progress"
-    url: /workinprogress/
+  - title: "CV"
+    url: /files/SND_Academic_CV_2025.pdf

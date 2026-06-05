@@ -1,0 +1,245 @@
+/* ==========================================================================
+   CUSTOM — redesign overrides (Wittenbrink-style header + jendara research)
+   Loaded last so it wins over theme defaults.
+   ========================================================================== */
+
+/*
+   Masthead / header — centered name + button row + thin divider
+   ========================================================================== */
+
+.masthead {
+  position: sticky;
+  top: 0;
+  background: $background-color;
+  border-bottom: 1px solid rgba($black, 0.15);
+  z-index: 20;
+
+  &__inner-wrap {
+    text-align: center;
+    padding: 1.25em 1em 1em;
+  }
+}
+
+.site-title {
+  margin: 0 0 0.6rem;
+  font-family: $palatino;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 1.1;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+
+  @include breakpoint(max-width $small) {
+    font-size: 1.45rem;
+  }
+}
+
+.nav-center {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2.25rem;
+
+  a {
+    font-family: $palatino;
+    font-size: 0.95rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: mix(#000, $gray, 30%);
+    padding: 0.1rem 0;
+
+    &:hover,
+    &.active {
+      color: $primary-color;
+    }
+  }
+
+  @include breakpoint(max-width $small) {
+    gap: 1.4rem;
+
+    a {
+      font-size: 0.82rem;
+    }
+  }
+}
+
+/*
+   Typography — Palatino serif scoped to MAIN content only.
+   The left sidebar / author card is intentionally left on its sans-serif.
+   ========================================================================== */
+
+.page__title {
+  font-family: $palatino;
+}
+
+.page__content {
+  font-family: $palatino;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $palatino;
+  }
+
+  /* Section dividers: "Accepted and Forthcoming Papers", etc. — black text */
+  h2 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: $text-color;
+    margin-top: 2.2em;
+    margin-bottom: 0.8em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid rgba($black, 0.18);
+  }
+
+  > h2:first-child {
+    margin-top: 0.2em;
+  }
+}
+
+/*
+   jendara-style publication entries (recolored to the crimson theme).
+   Hyperlinks stay the site's crimson (kept "as is").
+   ========================================================================== */
+
+.paper {
+  margin-bottom: 1.9rem;
+}
+
+.paper-title {
+  font-family: $palatino;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 5px;
+}
+
+/* Condensed intro paragraphs on the home page — narrow the block so the first
+   line wraps right after "focuses" (745–765px is the window where that holds). */
+.intro {
+  max-width: 755px;
+}
+
+/* Inline status tag after a title, e.g. "[Forthcoming]" */
+.pub-tag {
+  margin-left: 6px;
+  font-family: $palatino;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-style: italic;
+  color: $gray;
+  white-space: nowrap;
+}
+
+.paper-meta {
+  font-family: $palatino;
+  font-size: 0.86rem;
+  line-height: 1.5;
+  color: $dark-gray;
+  margin-bottom: 6px;
+}
+
+.paper-venue {
+  font-family: $palatino;
+  font-size: 0.86rem;
+  font-style: italic;
+  line-height: 1.5;
+  color: $dark-gray;
+  margin-bottom: 6px;
+}
+
+/* Click-to-expand "Abstract +" trigger */
+.abstract-toggle {
+  display: inline-block;
+  margin: 2px 0 0;
+  padding: 0;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  font-family: $palatino;
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: $primary-color;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* Hidden panel revealed by toggleAbstract() in _layouts/default.html */
+.abstract {
+  display: none;
+  margin-top: 8px;
+  padding: 12px 16px;
+  font-family: $palatino;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: $text-color;
+  background: #f0f1f2;
+  border-left: 4px solid $primary-color;
+
+  &.open {
+    display: block;
+  }
+}
+
+/*
+   Boxed links (Michigan Econ + CV) — jendara pill shape, crimson fill.
+   ========================================================================== */
+
+.box-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin: 1.6em 0 0.5em;
+}
+
+.box-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-family: $palatino;
+  font-size: 0.98rem;
+  font-weight: 600;
+  background: $primary-color;
+  color: #fff !important;
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+  transition: opacity 0.15s ease-in-out, background 0.2s ease-in-out;
+
+  &:visited {
+    color: #fff !important;
+  }
+
+  &:hover {
+    opacity: 0.9;
+    color: #fff !important;
+    text-decoration: none !important;
+  }
+}
+
+/*
+   Wider main content column — reclaim the unused right-hand TOC slot
+   (theme reserves suffix(2 of 12)) so long titles like the Green Revolution
+   project fit on one line.
+   ========================================================================== */
+
+@include breakpoint($large) {
+  .page {
+    /* ~12.3% right margin -> ~830px content column at >=1280px viewports,
+       just wide enough that the Green Revolution title stays on one line. */
+    padding-right: 12.3%;
+  }
+}

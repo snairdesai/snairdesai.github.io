@@ -27,6 +27,7 @@ $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
+$palatino                   : "Palatino", "Palatino Linotype", "Book Antiqua", "URW Palladio L", Georgia, serif;
 
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
@@ -60,8 +61,8 @@ $light-blue                 : mix(#fff, $blue, 50%);
 $lighter-blue               : mix(#fff, $blue, 90%);
 $black                      : #141414;
 
-$body-color                 : #F0EAD6;
-$background-color           : #F0EAD6;
+$body-color                 : #FFFFFF;
+$background-color           : #FFFFFF;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-crimson;
 $text-color                 : $black;

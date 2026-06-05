@@ -1,0 +1,18 @@
+current directory: /Users/sameernair-desai/Desktop/IndRes/Workflow/snairdesai.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/sameernair-desai/Desktop/IndRes/Workflow/snairdesai.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260604-22365-t2110e sitelibdir\=./.gem.20260604-22365-t2110e clean
+
+current directory: /Users/sameernair-desai/Desktop/IndRes/Workflow/snairdesai.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260604-22365-t2110e sitelibdir\=./.gem.20260604-22365-t2110e
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/sameernair-desai/Desktop/IndRes/Workflow/snairdesai.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260604-22365-t2110e sitelibdir\=./.gem.20260604-22365-t2110e install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260604-22365-t2110e/racc
+
+current directory: /Users/sameernair-desai/Desktop/IndRes/Workflow/snairdesai.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260604-22365-t2110e sitelibdir\=./.gem.20260604-22365-t2110e clean

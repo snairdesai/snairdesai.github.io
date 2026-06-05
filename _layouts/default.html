@@ -27,16 +27,27 @@ layout: compress
 
     {% include scripts.html %}
 
-  <!-- Add the JavaScript for toggling the abstract -->
+  <!-- Toggle for click-to-expand abstracts (supports multiple, independent panels) -->
   <script>
-    function toggleAbstract() {
-      var abstract = document.getElementById("abstract");
-      if (abstract.style.display === "none" || abstract.style.display === "") {
-        abstract.style.display = "block";
-      } else {
-        abstract.style.display = "none";
-      }
+    function toggleAbstract(btn) {
+      var abstract = btn.nextElementSibling;
+      var isOpen = abstract.classList.toggle("open");
+      btn.textContent = isOpen ? "Abstract −" : "Abstract +";
     }
+  </script>
+
+  <!-- Open all external (off-site) links in a new tab -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      var host = window.location.hostname;
+      var links = document.querySelectorAll('a[href^="http"]');
+      for (var i = 0; i < links.length; i++) {
+        if (links[i].hostname && links[i].hostname !== host) {
+          links[i].target = "_blank";
+          links[i].rel = "noopener noreferrer";
+        }
+      }
+    });
   </script>
 
   </body>
