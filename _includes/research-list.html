@@ -1,5 +1,41 @@
 <!-- Shared publication + works-in-progress list. Included by both _pages/about.md
-     (home, inline) and _pages/research.md so the two never drift. -->
+     (home, inline) and _pages/research.md. Pass wip="top" to render Works in
+     Progress first (research page); default renders it last (home). -->
+
+{% capture wip_section %}
+<h2>Works in Progress</h2>
+
+<div class="paper">
+  <div class="paper-title">The Effects of the Green Revolution on Long-Run Development: Evidence from India</div>
+  <div class="paper-meta">with <a href="https://jendara.com/" target="_blank" rel="noopener">Joaquin Endara</a>, <a href="https://www.eduardo-montero.com/" target="_blank" rel="noopener">Eduardo Montero</a>, <a href="https://websites.umich.edu/~ssotelo/" target="_blank" rel="noopener">Sebastian Sotelo</a>, and <a href="https://deanyang-econ.github.io/deanyang/" target="_blank" rel="noopener">Dean Yang</a></div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">Networks and Norms: Evidence from India's Digital Expansion</div>
+  <div class="paper-meta">with <a href="https://jccisneros.com/" target="_blank" rel="noopener">Juan Carlos Cisneros</a></div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">Screening Desire: The Effects of Pre-Code Hollywood on Lifestyle Choices</div>
+  <div class="paper-meta">with <a href="https://jccisneros.com/" target="_blank" rel="noopener">Juan Carlos Cisneros</a> and <a href="https://marie-kaul.github.io/" target="_blank" rel="noopener">Marie Kaul</a></div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">The Welfare Effects of Healthcare Expansions to Immigrant Communities</div>
+  <div class="paper-meta">with <a href="https://www.econ.berkeley.edu/grad/profiles/16868" target="_blank" rel="noopener">AnneMarie Bryson</a> and <a href="https://jccisneros.com/" target="_blank" rel="noopener">Juan Carlos Cisneros</a></div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">The Role of Continuous Medicaid Coverage in Reducing Recidivism and Drug Use</div>
+  <div class="paper-meta">with <a href="https://www.econ.berkeley.edu/grad/profiles/16868" target="_blank" rel="noopener">AnneMarie Bryson</a> and <a href="https://econ.berkeley.edu/people/graduate-student-profiles?page=2" target="_blank" rel="noopener">Abbigail Willis</a></div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">The Effects of Gentrification on Education and Later-Life Outcomes</div>
+  <div class="paper-meta">with <a href="https://www.econ.berkeley.edu/grad/profiles/16868" target="_blank" rel="noopener">AnneMarie Bryson</a> and <a href="https://econ.berkeley.edu/people/graduate-student-profiles?page=2" target="_blank" rel="noopener">Abbigail Willis</a></div>
+</div>
+{% endcapture %}
+{% if include.wip == "top" %}{{ wip_section }}{% endif %}
 
 <h2>Published Papers in Economics</h2>
 
@@ -98,34 +134,4 @@
   <div class="abstract">One of the most important consequences of the COVID-19 pandemic on health care delivery in the U.S. is the acceleration of a long-building shift from inpatient to outpatient delivery of operative care. Before the pandemic, enhanced recovery pathways and minimally invasive techniques opened the possibility of performing increasingly complex operations in hospital outpatient departments and ambulatory surgical centers. To create inpatient surge capacity during the pandemic, emergency waivers expanded the care that outpatient surgical centers could provide, rendering them increasingly important sites of care delivery for both the present need for inpatient capacity as well as the future of value-based care. In this article, we analyze this shifting trend and provide policy recommendations for federal health agencies.</div>
 </div>
 
-<h2>Works in Progress</h2>
-
-<div class="paper">
-  <div class="paper-title">The Effects of the Green Revolution on Long-Run Development: Evidence from India</div>
-  <div class="paper-meta">with <a href="https://jendara.com/" target="_blank" rel="noopener">Joaquin Endara</a>, <a href="https://www.eduardo-montero.com/" target="_blank" rel="noopener">Eduardo Montero</a>, <a href="https://websites.umich.edu/~ssotelo/" target="_blank" rel="noopener">Sebastian Sotelo</a>, and <a href="https://deanyang-econ.github.io/deanyang/" target="_blank" rel="noopener">Dean Yang</a></div>
-</div>
-
-<div class="paper">
-  <div class="paper-title">Networks and Norms: Evidence from India's Digital Expansion</div>
-  <div class="paper-meta">with <a href="https://jccisneros.com/" target="_blank" rel="noopener">Juan Carlos Cisneros</a></div>
-</div>
-
-<div class="paper">
-  <div class="paper-title">Screening Desire: The Effects of Pre-Code Hollywood on Lifestyle Choices</div>
-  <div class="paper-meta">with <a href="https://jccisneros.com/" target="_blank" rel="noopener">Juan Carlos Cisneros</a> and <a href="https://marie-kaul.github.io/" target="_blank" rel="noopener">Marie Kaul</a></div>
-</div>
-
-<div class="paper">
-  <div class="paper-title">The Welfare Effects of Healthcare Expansions to Immigrant Communities</div>
-  <div class="paper-meta">with <a href="https://www.econ.berkeley.edu/grad/profiles/16868" target="_blank" rel="noopener">AnneMarie Bryson</a> and <a href="https://jccisneros.com/" target="_blank" rel="noopener">Juan Carlos Cisneros</a></div>
-</div>
-
-<div class="paper">
-  <div class="paper-title">The Role of Continuous Medicaid Coverage in Reducing Recidivism and Drug Use</div>
-  <div class="paper-meta">with <a href="https://www.econ.berkeley.edu/grad/profiles/16868" target="_blank" rel="noopener">AnneMarie Bryson</a> and <a href="https://econ.berkeley.edu/people/graduate-student-profiles?page=2" target="_blank" rel="noopener">Abbigail Willis</a></div>
-</div>
-
-<div class="paper">
-  <div class="paper-title">The Effects of Gentrification on Education and Later-Life Outcomes</div>
-  <div class="paper-meta">with <a href="https://www.econ.berkeley.edu/grad/profiles/16868" target="_blank" rel="noopener">AnneMarie Bryson</a> and <a href="https://econ.berkeley.edu/people/graduate-student-profiles?page=2" target="_blank" rel="noopener">Abbigail Willis</a></div>
-</div>
+{% unless include.wip == "top" %}{{ wip_section }}{% endunless %}

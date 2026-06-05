@@ -7,4 +7,4 @@ redirect_from:
   - /workinprogress
 ---
 
-{% include research-list.html %}
+{% include research-list.html wip="top" %}
